@@ -153,8 +153,7 @@
 |------------------|----------|
 | Complete Python with DSA Bootcamp | Udemy |
 | Certificate in DevOps – DevOps Insiders | DevOps Insiders |
-| Terraform on Azure | Microsoft Learn |
-| Linux Command Line | Coursera |
+
 
 ---
 
