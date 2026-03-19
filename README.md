@@ -1,28 +1,35 @@
-# 👋 Hi, I'm Priya Jaiswal  
+<!-- 🌈 Minimal Gradient Banner (Clean & Modern) -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=12,20,24&text=Priya%20Jaiswal&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-💼 **Azure DevOps Engineer** | ☁️ Cloud | ⚙️ Automation  
+<!-- 👩‍💻 Subtitle -->
+<p align="center">
+  <b>Azure DevOps Engineer | Cloud | Terraform | CI/CD | Automation</b>
+</p>
+
+<!-- 🔗 Social Links -->
+<p align="center">
+  <a href="https://linkedin.com/in/priya-jaiswal-0a2145369"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="mailto:priyajaisw9554@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="https://github.com/Pjaisw1103"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+</p>
 
 ---
 
 ## 👩‍💻 About Me  
 
-- 🎓 B.Tech in Computer Science (AKTU)  
-- 💼 DevOps Engineer Intern (1+ year experience)  
-- ☁️ Skilled in Azure, Terraform, Docker, CI/CD  
-- ⚡ Improved deployment speed by **40%** & reduced manual effort by **60%**  
+✨ DevOps Engineer with hands-on experience in **Azure Cloud & CI/CD Automation**  
+🚀 Built scalable infrastructure using **Terraform & Docker**  
+📈 Improved deployments by **40% faster & 60% less manual effort**  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-**Cloud:** Azure (VM, VMSS, VNet, NSG, Load Balancer, App Gateway)  
-**IaC:** Terraform, Terratest  
-**CI/CD:** Azure DevOps, GitHub Actions (YAML Pipelines)  
-**Containers:** Docker, Kubernetes (Basics)  
-**Monitoring:** Prometheus, Grafana, Azure Monitor  
-**Security:** Azure Key Vault, RBAC  
-**Languages:** Python, Bash, YAML  
-**Tools:** Git, Linux (Ubuntu)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,githubactions,linux,git,bash,py,kubernetes" />
+</p>
 
 ---
 
@@ -31,48 +38,44 @@
 ### 🔧 DevOps Intern – DevOps Insider  
 📅 Nov 2024 – Oct 2025  
 
-- Built & managed Azure infrastructure using **Terraform (IaC)**  
-- Designed **multi-stage CI/CD pipelines** (Build → Test → Deploy)  
-- Implemented **secure state management** using Azure Storage  
-- Integrated **Azure Key Vault** for secrets management  
-- Deployed apps using **Docker containers**  
-- Set up monitoring with **Prometheus + Grafana + Azure Monitor**  
+✔ Provisioned Azure infrastructure using **Terraform (IaC)**  
+✔ Built **multi-stage CI/CD pipelines** (Azure DevOps + GitHub Actions)  
+✔ Integrated **Azure Key Vault** for secrets  
+✔ Deployed apps using **Docker containers**  
+✔ Monitoring via **Prometheus + Grafana + Azure Monitor**  
 
 ---
 
-## 🚀 Projects  
+## 🚀 Featured Projects  
 
-### 🔹 CI/CD Pipeline for Node.js Application  
-- Automated build, test & deployment using Azure DevOps  
-- Integrated SonarQube & Docker  
-- Used multi-stage pipeline approach  
+### 🔹 CI/CD Pipeline for Node.js  
+- End-to-end pipeline (Build → Test → Deploy)  
+- Integrated SonarQube + Docker  
+- Multi-environment deployment  
 
-### 🔹 Terraform-Based Infrastructure Automation  
-- Designed modular infrastructure (VM, VNet, NSG, LB)  
-- Automated provisioning using pipelines  
-- Added monitoring & alerting system  
+### 🔹 Terraform Infrastructure Automation  
+- Modular infrastructure (VM, VNet, NSG, LB)  
+- Automated provisioning via pipelines  
+- Monitoring + alerting setup  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pjaisw1103&show_icons=true&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Pjaisw1103&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pjaisw1103&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Pjaisw1103&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📄 Resume & Profiles  
+## 📄 Resume & Links  
 
 📌 **Resume:**  
 👉 https://github.com/Pjaisw1103/Pjaisw1103/blob/main/Resume.pdf  
 
 🔗 **LinkedIn:**  
 👉 https://linkedin.com/in/priya-jaiswal-0a2145369  
-
-💻 **GitHub:**  
-👉 https://github.com/Pjaisw1103  
 
 📧 **Email:**  
 👉 priyajaisw9554@gmail.com  
@@ -83,9 +86,11 @@
 
 - Kubernetes (AKS)  
 - GitOps (ArgoCD)  
-- Advanced CI/CD Pipelines  
-- Cloud Security & Monitoring  
+- Cloud Security  
+- Advanced CI/CD  
 
 ---
 
-⭐ *Open to DevOps / Cloud Engineer opportunities*
+<p align="center">
+  ⭐ <b>Open to DevOps & Cloud Opportunities</b>
+</p>
