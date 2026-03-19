@@ -1,22 +1,22 @@
-<!-- 🌌 Premium Animated Banner -->
+<!-- 🌈 Ultra Premium Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8A2BE2,100:4B0082&text=Priya%20Jaiswal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Priya%20Jaiswal&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=0:ff6ec4,25:7873f5,50:4ADEDE,75:42E695,100:F9D423"/>
 </p>
 
-<!-- ⚡ Typing Animation -->
+<!-- 🌟 Glowing Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=24&center=true&vCenter=true&width=800&lines=Azure+DevOps+Engineer;Terraform+%7C+CI/CD+%7C+Docker;Cloud+Automation+Specialist;Building+Scalable+Infrastructure"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF6EC4&size=26&center=true&vCenter=true&width=850&lines=Azure+DevOps+Engineer;Terraform+%7C+CI/CD+%7C+Docker;Cloud+Automation+Specialist;Building+Scalable+%26+Secure+Infrastructure"/>
 </p>
 
 <!-- 🔗 Social Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/priya-jaiswal-0a2145369"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
-  <a href="mailto:priyajaisw9554@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
-  <a href="https://github.com/Pjaisw1103"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+  <a href="https://linkedin.com/in/priya-jaiswal-0a2145369"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
+  <a href="mailto:priyajaisw9554@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
+  <a href="https://github.com/Pjaisw1103"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pjaisw1103&label=Profile%20Views&color=8A2BE2&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Pjaisw1103&label=Profile%20Views&color=ff6ec4&style=flat"/>
 </p>
 
 ---
@@ -46,11 +46,11 @@ currently_learning:
 ## 🏆 Badges (Cloud & DevOps)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure"/>
-  <img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform"/>
-  <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes"/>
-  <img src="https://img.shields.io/badge/CI/CD-Automation-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-IaC-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-Automation-00C853?style=for-the-badge"/>
 </p>
 
 ---
@@ -78,17 +78,17 @@ currently_learning:
 
 ### 🔹 CI/CD Pipeline Dashboard
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=CI/CD+Pipeline+Screenshot"/>
+  <img src="https://via.placeholder.com/800x400/ff6ec4/ffffff?text=CI/CD+Pipeline"/>
 </p>
 
 ### 🔹 Terraform Infrastructure
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Terraform+Infra+Architecture"/>
+  <img src="https://via.placeholder.com/800x400/7873f5/ffffff?text=Terraform+Infra"/>
 </p>
 
 ### 🔹 Monitoring Dashboard
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Grafana+Dashboard"/>
+  <img src="https://via.placeholder.com/800x400/42E695/ffffff?text=Monitoring+Dashboard"/>
 </p>
 
 ---
@@ -124,11 +124,11 @@ G --> H[Feedback Loop]
 ## 📊 GitHub Stats (Dark/Light Adaptive)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pjaisw1103&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pjaisw1103&show_icons=true&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pjaisw1103&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pjaisw1103&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -136,7 +136,7 @@ G --> H[Feedback Loop]
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pjaisw1103&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pjaisw1103&theme=react-dark"/>
 </p>
 
 ---
@@ -145,7 +145,7 @@ G --> H[Feedback Loop]
 
 <p align="center">
   <a href="https://github.com/Pjaisw1103/Pjaisw1103/blob/main/Resume.pdf">
-    <img src="https://img.shields.io/badge/Download%20Resume-8A2BE2?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Download%20Resume-FF6EC4?style=for-the-badge"/>
   </a>
 </p>
 
