@@ -1,142 +1,83 @@
-<!-- 🌈 Ultra Premium Animated Banner -->
+<!-- 🌌 Clean Professional Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=Priya%20Jaiswal&fontSize=55&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=0:ff6ec4,25:7873f5,50:4ADEDE,75:42E695,100:F9D423"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=gradient&customColorList=5,6,12,20&text=Priya%20Jaiswal&fontSize=45&fontColor=ffffff"/>
 </p>
 
-<!-- 🌟 Glowing Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF6EC4&size=26&center=true&vCenter=true&width=850&lines=Azure+DevOps+Engineer;Terraform+%7C+CI/CD+%7C+Docker;Cloud+Automation+Specialist;Building+Scalable+%26+Secure+Infrastructure"/>
-</p>
-
-<!-- 🔗 Social Links -->
-<p align="center">
-  <a href="https://linkedin.com/in/priya-jaiswal-0a2145369"><img src="https://skillicons.dev/icons?i=linkedin" width="50"/></a>
-  <a href="mailto:priyajaisw9554@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50"/></a>
-  <a href="https://github.com/Pjaisw1103"><img src="https://skillicons.dev/icons?i=github" width="50"/></a>
-</p>
+<h3 align="center">Azure DevOps Engineer | Terraform | CI/CD | Docker</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pjaisw1103&label=Profile%20Views&color=ff6ec4&style=flat"/>
+  <a href="https://linkedin.com/in/priya-jaiswal-0a2145369">LinkedIn</a> •
+  <a href="mailto:priyajaisw9554@gmail.com">Email</a> •
+  <a href="https://github.com/Pjaisw1103">GitHub</a>
 </p>
 
 ---
 
-## 🧠 Engineer Snapshot
+## 🧠 Summary
 
-```yaml
-name: Priya Jaiswal
-role: Azure DevOps Engineer
-focus: Cloud Automation & Infrastructure
-experience: 1+ Year Internship
+Azure DevOps Engineer with 1+ year of hands-on internship experience in building scalable cloud infrastructure and automating CI/CD pipelines on Microsoft Azure.
 
-impact:
-  - Deployment time ↓ 40%
-  - Manual effort ↓ 60%
-  - Built reusable Terraform modules
-
-currently_learning:
-  - Kubernetes (AKS)
-  - GitOps (ArgoCD)
-  - Monitoring (Grafana, Prometheus)
-  - Azure Security (Key Vault, IAM)
-```
+- Improved deployment speed by **40%**
+- Reduced manual effort by **60%**
+- Strong in **Terraform, Azure DevOps, Docker, CI/CD pipelines**
 
 ---
 
-## 🏆 Badges (Cloud & DevOps)
+## ⚙️ Technical Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terraform-IaC-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CI/CD-Automation-00C853?style=for-the-badge"/>
-</p>
-
----
-
-## ⚙️ What I Do
-
-- ☁️ Azure Infrastructure (VM, VMSS, VNet, NSG, LB)
-- ⚙️ Terraform (Infrastructure as Code)
-- 🔁 CI/CD (Azure DevOps + GitHub Actions)
-- 📦 Docker Containerization
-- 🔐 Azure Security (Key Vault, RBAC)
-- 📊 Monitoring (Prometheus, Grafana, Azure Monitor)
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,githubactions,linux,git,bash,py" />
-</p>
-
----
-
-## 🖼️ Project Screenshots (Portfolio Style)
-
-### 🔹 CI/CD Pipeline Dashboard
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/ff6ec4/ffffff?text=CI/CD+Pipeline"/>
-</p>
-
-### 🔹 Terraform Infrastructure
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/7873f5/ffffff?text=Terraform+Infra"/>
-</p>
-
-### 🔹 Monitoring Dashboard
-<p align="center">
-  <img src="https://via.placeholder.com/800x400/42E695/ffffff?text=Monitoring+Dashboard"/>
-</p>
-
----
-
-## 🔄 DevOps Workflow
-
-```mermaid
-graph LR
-A[Code] --> B[GitHub]
-B --> C[CI Pipeline]
-C --> D[Build & Test]
-D --> E[Docker Image]
-E --> F[Deploy to Azure]
-F --> G[Monitoring]
-G --> H[Feedback Loop]
-```
+**Cloud:** Microsoft Azure (VM, VMSS, VNet, Subnets, NSG, Bastion, Storage Accounts, Load Balancer, Application Gateway)  
+**Infrastructure as Code:** Terraform, Terratest  
+**CI/CD:** Azure DevOps Pipelines (YAML), GitHub Actions  
+**Containers:** Docker, Kubernetes (Basics – Pods, Deployments, Services)  
+**Code Quality & Security:** SonarQube, Azure Key Vault, RBAC  
+**Monitoring:** Prometheus, Grafana, Azure Monitor  
+**Networking:** VNet, NSG, Firewalls  
+**Languages:** Python, Bash, YAML  
+**Version Control:** Git, GitHub, Azure Repos  
+**OS:** Linux (Ubuntu)
 
 ---
 
 ## 💼 Experience
 
-### 🔧 DevOps Intern — DevOps Insider
+### DevOps Engineer Intern
+📍 Remote, India  
 📅 Nov 2024 – Oct 2025
 
-- Built CI/CD pipelines (Azure DevOps YAML)
-- Automated infrastructure using Terraform
-- Integrated Azure Key Vault
-- Containerized apps using Docker
-- Implemented monitoring (Prometheus + Grafana)
+- Provisioned and managed Azure infrastructure using Terraform (VMs, VNet, Subnets, NSG, Virtual Machines)
+- Configured remote backend in Azure Storage Account for Terraform state management
+- Built multi-stage CI/CD pipelines in Azure DevOps (YAML)
+- Implemented branch-based triggers and pull request validation
+- Integrated Azure Key Vault for secure secrets management
+- Containerized applications using Docker
+- Implemented monitoring using Azure Monitor, Prometheus, and Grafana
 
 ---
 
-## 📊 GitHub Stats (Dark/Light Adaptive)
+## 🚀 Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pjaisw1103&show_icons=true&theme=radical&hide_border=true"/>
-</p>
+### 🔹 CI/CD Pipeline for Application
+- Built multi-stage CI/CD pipelines using Azure DevOps (YAML)
+- Integrated SonarQube for code quality analysis
+- Used Docker for containerization
+- Implemented multi-environment deployment (Dev/Test/Prod)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pjaisw1103&theme=radical&hide_border=true"/>
-</p>
+### 🔹 Terraform Infrastructure Automation
+- Provisioned Azure infrastructure (VM, VNet, NSG, Load Balancer)
+- Designed modular Terraform code
+- Integrated infrastructure deployment in CI/CD pipeline
+
+### 🔹 Monitoring & Logging System
+- Configured Prometheus and Grafana dashboards
+- Implemented alerts for system performance
+- Used Azure Monitor for logging
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pjaisw1103&theme=react-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pjaisw1103&show_icons=true&theme=default"/>
 </p>
 
 ---
@@ -144,9 +85,7 @@ G --> H[Feedback Loop]
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://github.com/Pjaisw1103/Pjaisw1103/blob/main/Resume.pdf">
-    <img src="https://img.shields.io/badge/Download%20Resume-FF6EC4?style=for-the-badge"/>
-  </a>
+  <a href="https://github.com/Pjaisw1103/Pjaisw1103/blob/main/Resume.pdf">Download Resume</a>
 </p>
 
 ---
@@ -155,13 +94,13 @@ G --> H[Feedback Loop]
 
 - Kubernetes (AKS)
 - GitOps (ArgoCD)
-- Cloud Security & IAM
+- Azure Security & IAM
 
 ---
 
 ## 💬 DevOps Philosophy
 
-> "Automate everything. Build scalable systems. Deliver with confidence."
+> Automate everything. Build scalable systems. Deliver with confidence.
 
 ---
 
