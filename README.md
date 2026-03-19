@@ -1,14 +1,17 @@
-<!-- 🌌 Clean Professional Banner -->
+<!-- 🌈 Premium Animated Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=gradient&customColorList=5,6,12,20&text=Priya%20Jaiswal&fontSize=45&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Priya%20Jaiswal&fontSize=50&fontAlignY=40&animation=fadeIn&fontColor=ffffff&color=0:8A2BE2,50:4ADEDE,100:F9D423"/>
 </p>
 
-<h3 align="center">Azure DevOps Engineer | Terraform | CI/CD | Docker</h3>
+<!-- ⚡ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=24&center=true&vCenter=true&width=800&lines=Azure+DevOps+Engineer;Terraform+%7C+CI/CD+%7C+Docker;Cloud+Automation+Engineer"/>
+</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/priya-jaiswal-0a2145369">LinkedIn</a> •
-  <a href="mailto:priyajaisw9554@gmail.com">Email</a> •
-  <a href="https://github.com/Pjaisw1103">GitHub</a>
+  <a href="https://linkedin.com/in/priya-jaiswal-0a2145369"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="mailto:priyajaisw9554@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://github.com/Pjaisw1103"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
 </p>
 
 ---
@@ -17,67 +20,87 @@
 
 Azure DevOps Engineer with 1+ year of hands-on internship experience in building scalable cloud infrastructure and automating CI/CD pipelines on Microsoft Azure.
 
-- Improved deployment speed by **40%**
-- Reduced manual effort by **60%**
-- Strong in **Terraform, Azure DevOps, Docker, CI/CD pipelines**
+✔ Deployment time improved by **40%**  
+✔ Manual effort reduced by **60%**
+
+---
+
+## 🏆 Tech Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-00C853?style=for-the-badge"/>
+</p>
 
 ---
 
 ## ⚙️ Technical Skills
 
-**Cloud:** Microsoft Azure (VM, VMSS, VNet, Subnets, NSG, Bastion, Storage Accounts, Load Balancer, Application Gateway)  
-**Infrastructure as Code:** Terraform, Terratest  
-**CI/CD:** Azure DevOps Pipelines (YAML), GitHub Actions  
-**Containers:** Docker, Kubernetes (Basics – Pods, Deployments, Services)  
-**Code Quality & Security:** SonarQube, Azure Key Vault, RBAC  
+**Cloud:** Azure (VM, VMSS, VNet, NSG, Load Balancer, App Gateway)  
+**IaC:** Terraform  
+**CI/CD:** Azure DevOps (YAML), GitHub Actions  
+**Containers:** Docker, Kubernetes (Basics)  
+**Security:** Key Vault, RBAC  
 **Monitoring:** Prometheus, Grafana, Azure Monitor  
-**Networking:** VNet, NSG, Firewalls  
 **Languages:** Python, Bash, YAML  
-**Version Control:** Git, GitHub, Azure Repos  
-**OS:** Linux (Ubuntu)
+
+---
+
+## 🔄 DevOps Workflow
+
+```mermaid
+graph LR
+A[Code] --> B[GitHub]
+B --> C[CI/CD]
+C --> D[Build]
+D --> E[Docker]
+E --> F[Deploy]
+F --> G[Monitor]
+```
 
 ---
 
 ## 💼 Experience
 
 ### DevOps Engineer Intern
-📍 Remote, India  
 📅 Nov 2024 – Oct 2025
 
-- Provisioned and managed Azure infrastructure using Terraform (VMs, VNet, Subnets, NSG, Virtual Machines)
-- Configured remote backend in Azure Storage Account for Terraform state management
-- Built multi-stage CI/CD pipelines in Azure DevOps (YAML)
-- Implemented branch-based triggers and pull request validation
-- Integrated Azure Key Vault for secure secrets management
-- Containerized applications using Docker
-- Implemented monitoring using Azure Monitor, Prometheus, and Grafana
+- Built CI/CD pipelines using Azure DevOps (YAML)
+- Provisioned infrastructure using Terraform
+- Integrated Azure Key Vault
+- Used Docker for deployments
+- Monitoring with Prometheus & Grafana
 
 ---
 
 ## 🚀 Projects
 
-### 🔹 CI/CD Pipeline for Application
-- Built multi-stage CI/CD pipelines using Azure DevOps (YAML)
-- Integrated SonarQube for code quality analysis
-- Used Docker for containerization
-- Implemented multi-environment deployment (Dev/Test/Prod)
+### 🔹 CI/CD Pipeline
+- Multi-stage Azure DevOps pipeline
+- SonarQube integration
+- Docker-based deployment
 
-### 🔹 Terraform Infrastructure Automation
-- Provisioned Azure infrastructure (VM, VNet, NSG, Load Balancer)
-- Designed modular Terraform code
-- Integrated infrastructure deployment in CI/CD pipeline
+### 🔹 Terraform Automation
+- Created reusable infrastructure modules
+- Automated infra provisioning
 
-### 🔹 Monitoring & Logging System
-- Configured Prometheus and Grafana dashboards
-- Implemented alerts for system performance
-- Used Azure Monitor for logging
+### 🔹 Monitoring Setup
+- Grafana dashboards + Prometheus alerts
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pjaisw1103&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pjaisw1103&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pjaisw1103&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pjaisw1103&theme=react-dark"/>
 </p>
 
 ---
@@ -85,25 +108,13 @@ Azure DevOps Engineer with 1+ year of hands-on internship experience in building
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://github.com/Pjaisw1103/Pjaisw1103/blob/main/Resume.pdf">Download Resume</a>
+  <a href="https://github.com/Pjaisw1103/Pjaisw1103/blob/main/Resume.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-purple?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
-## 🎯 Current Focus
-
-- Kubernetes (AKS)
-- GitOps (ArgoCD)
-- Azure Security & IAM
-
----
-
-## 💬 DevOps Philosophy
-
-> Automate everything. Build scalable systems. Deliver with confidence.
-
----
-
 <p align="center">
-  ⭐ Open to DevOps / Cloud Engineer Opportunities
+  ⭐ Open to DevOps / Cloud Opportunities
 </p>
