@@ -1,45 +1,94 @@
-<!-- 🌟 Premium DevOps GitHub Profile README -->
-
-<h1 align="center">Hi 👋, I'm Priya Jaiswal</h1>
-<h3 align="center">🚀 Azure DevOps Engineer | Cloud & Automation Enthusiast</h3>
-
+<!-- 🌌 Premium Animated Banner -->
 <p align="center">
-  <a href="https://linkedin.com/in/priya-jaiswal1103"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="mailto:priyajaisw9554@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-  <a href="https://github.com/Pjaisw1103"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8A2BE2,100:4B0082&text=Priya%20Jaiswal&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+</p>
+
+<!-- ⚡ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8A2BE2&size=24&center=true&vCenter=true&width=800&lines=Azure+DevOps+Engineer;Terraform+%7C+CI/CD+%7C+Docker;Cloud+Automation+Specialist;Building+Scalable+Infrastructure"/>
+</p>
+
+<!-- 🔗 Social Links -->
+<p align="center">
+  <a href="https://linkedin.com/in/priya-jaiswal-0a2145369"><img src="https://skillicons.dev/icons?i=linkedin" width="45"/></a>
+  <a href="mailto:priyajaisw9554@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45"/></a>
+  <a href="https://github.com/Pjaisw1103"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pjaisw1103&label=Profile%20Views&color=blueviolet&style=flat"/>
+  <img src="https://komarev.com/ghpvc/?username=Pjaisw1103&label=Profile%20Views&color=8A2BE2&style=flat"/>
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 Engineer Snapshot
 
-💡 Azure DevOps Engineer with 1+ year of hands-on internship experience in building scalable cloud infrastructure and automating CI/CD pipelines.
+```yaml
+name: Priya Jaiswal
+role: Azure DevOps Engineer
+focus: Cloud Automation & Infrastructure
+experience: 1+ Year Internship
 
-✔ Reduced deployment time by **40%**  
-✔ Reduced manual effort by **60%**  
-✔ Strong in **Terraform, Azure DevOps, Docker**
+impact:
+  - Deployment time ↓ 40%
+  - Manual effort ↓ 60%
+  - Built reusable Terraform modules
+
+currently_learning:
+  - Kubernetes (AKS)
+  - GitOps (ArgoCD)
+  - Monitoring (Grafana, Prometheus)
+  - Azure Security (Key Vault, IAM)
+```
 
 ---
 
-## 🚀 What I Do
+## 🏆 Badges (Cloud & DevOps)
 
-- ☁️ Design & manage Azure infrastructure (VM, VMSS, VNet, NSG, Load Balancer)
-- ⚙️ Automate infrastructure using Terraform (IaC)
-- 🔁 Build CI/CD pipelines using Azure DevOps & GitHub Actions
-- 📦 Containerize applications using Docker
-- 🔐 Secure apps using Azure Key Vault & RBAC
-- 📊 Monitoring with Prometheus, Grafana & Azure Monitor
+<p align="center">
+  <img src="https://img.shields.io/badge/Azure-Cloud-blue?style=for-the-badge&logo=microsoftazure"/>
+  <img src="https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform"/>
+  <img src="https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes"/>
+  <img src="https://img.shields.io/badge/CI/CD-Automation-green?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ What I Do
+
+- ☁️ Azure Infrastructure (VM, VMSS, VNet, NSG, LB)
+- ⚙️ Terraform (Infrastructure as Code)
+- 🔁 CI/CD (Azure DevOps + GitHub Actions)
+- 📦 Docker Containerization
+- 🔐 Azure Security (Key Vault, RBAC)
+- 📊 Monitoring (Prometheus, Grafana, Azure Monitor)
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,githubactions,linux,git,bash,py" />
+</p>
+
+---
+
+## 🖼️ Project Screenshots (Portfolio Style)
+
+### 🔹 CI/CD Pipeline Dashboard
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=CI/CD+Pipeline+Screenshot"/>
+</p>
+
+### 🔹 Terraform Infrastructure
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=Terraform+Infra+Architecture"/>
+</p>
+
+### 🔹 Monitoring Dashboard
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=Grafana+Dashboard"/>
 </p>
 
 ---
@@ -61,42 +110,25 @@ G --> H[Feedback Loop]
 
 ## 💼 Experience
 
-### 🔧 DevOps Intern — DevOps Insider  
+### 🔧 DevOps Intern — DevOps Insider
 📅 Nov 2024 – Oct 2025
 
-- Built CI/CD pipelines with Azure DevOps (YAML)
-- Automated Azure infrastructure using Terraform
-- Implemented remote backend using Azure Storage
-- Integrated Azure Key Vault for secrets
-- Used Docker for containerized deployments
-- Implemented monitoring using Prometheus & Grafana
+- Built CI/CD pipelines (Azure DevOps YAML)
+- Automated infrastructure using Terraform
+- Integrated Azure Key Vault
+- Containerized apps using Docker
+- Implemented monitoring (Prometheus + Grafana)
 
 ---
 
-## 🚀 Projects
-
-### 🔹 CI/CD Pipeline (Node.js App)
-- Automated build, test, deploy pipeline
-- Integrated Docker & SonarQube
-- Multi-environment deployment (Dev/Test/Prod)
-
-### 🔹 Terraform Infrastructure Automation
-- Modular infra (VM, VNet, NSG, Load Balancer)
-- Automated provisioning via pipelines
-- Monitoring integration included
-
-### 🔹 Monitoring System
-- Grafana dashboards
-- Prometheus alerts
-- Azure Monitor integration
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Dark/Light Adaptive)
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pjaisw1103&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Pjaisw1103&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pjaisw1103&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pjaisw1103&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -113,7 +145,7 @@ G --> H[Feedback Loop]
 
 <p align="center">
   <a href="https://github.com/Pjaisw1103/Pjaisw1103/blob/main/Resume.pdf">
-    <img src="https://img.shields.io/badge/Download%20Resume-blueviolet?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Download%20Resume-8A2BE2?style=for-the-badge"/>
   </a>
 </p>
 
@@ -124,13 +156,12 @@ G --> H[Feedback Loop]
 - Kubernetes (AKS)
 - GitOps (ArgoCD)
 - Cloud Security & IAM
-- Advanced CI/CD Pipelines
 
 ---
 
 ## 💬 DevOps Philosophy
 
-> Automate everything. Build scalable systems. Deliver with confidence.
+> "Automate everything. Build scalable systems. Deliver with confidence."
 
 ---
 
