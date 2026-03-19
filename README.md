@@ -1,18 +1,23 @@
-<!-- 🌈 Minimal Gradient Banner (Clean & Modern) -->
+<!-- 🌌 Premium Gradient Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=gradient&customColorList=12,20,24&text=Priya%20Jaiswal&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=gradient&customColorList=6,11,20,30&text=Priya%20Jaiswal&fontSize=44&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <!-- 👩‍💻 Subtitle -->
 <p align="center">
-  <b>Azure DevOps Engineer | Cloud | Terraform | CI/CD | Automation</b>
+  <b>Azure DevOps Engineer • Cloud • Terraform • CI/CD • Automation</b>
 </p>
 
 <!-- 🔗 Social Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/priya-jaiswal-0a2145369"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="mailto:priyajaisw9554@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-  <a href="https://github.com/Pjaisw1103"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+  <a href="https://linkedin.com/in/priya-jaiswal-0a2145369"><img src="https://skillicons.dev/icons?i=linkedin" width="42"/></a>
+  <a href="mailto:priyajaisw9554@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="42"/></a>
+  <a href="https://github.com/Pjaisw1103"><img src="https://skillicons.dev/icons?i=github" width="42"/></a>
+</p>
+
+<!-- 👀 Profile Views -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pjaisw1103&label=Profile%20Views&color=6C63FF&style=flat"/>
 </p>
 
 ---
@@ -28,7 +33,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,githubactions,linux,git,bash,py,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,githubactions,linux,git,bash,py,kubernetes&perline=5" />
 </p>
 
 ---
@@ -71,14 +76,17 @@
 
 ## 📄 Resume & Links  
 
-📌 **Resume:**  
-👉 https://github.com/Pjaisw1103/Pjaisw1103/blob/main/Resume.pdf  
+<p align="center">
+  <a href="https://github.com/Pjaisw1103/Pjaisw1103/blob/main/Resume.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-6C63FF?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+</p>
 
-🔗 **LinkedIn:**  
-👉 https://linkedin.com/in/priya-jaiswal-0a2145369  
-
-📧 **Email:**  
-👉 priyajaisw9554@gmail.com  
+<p align="center">
+  🔗 <a href="https://linkedin.com/in/priya-jaiswal-0a2145369">LinkedIn</a> • 
+  💻 <a href="https://github.com/Pjaisw1103">GitHub</a> • 
+  📧 <a href="mailto:priyajaisw9554@gmail.com">Email</a>
+</p>
 
 ---
 
