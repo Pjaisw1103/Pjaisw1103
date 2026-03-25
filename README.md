@@ -114,7 +114,7 @@ F --> G[📊 Monitor]
 ## 📄 🎯 Resume
 
 <p align="center">
-  <a href="https://github.com/Pjaisw1103/Pjaisw1103/blob/main/Resume.pdf">
+  <a href="https://drive.google.com/file/d/1NNVIkMjHcRsTIfT95aZs3OMLYzxxbqrZ/view?usp=sharing">
     <img src="https://img.shields.io/badge/📥_Download_Resume-FF6EC4?style=for-the-badge"/>
   </a>
 </p>
