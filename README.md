@@ -163,7 +163,7 @@ Provisioned AKS cluster using Terraform and created Kubernetes manifests for Pod
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1NNVIkMjHcRsTIfT95aZs3OMLYzxxbqrZ/view?usp=sharing">
+  <a href="[https://drive.google.com/file/d/1NNVIkMjHcRsTIfT95aZs3OMLYzxxbqrZ/view?usp=sharing](https://github.com/Pjaisw1103/Pjaisw1103/blob/main/Priya_Jaiswal_DevOps_Resume.pdf)">
     <img src="https://img.shields.io/badge/Download%20Resume-0078D4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
