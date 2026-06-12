@@ -15,6 +15,60 @@
 
 ---
 
+
+## 💼 Experience & Projects
+
+### 🚀 DevOps Engineer Intern | [cite_start]**DevOps Insiders** *(Nov 2024 – Oct 2025)* [cite: 14, 15, 16]
+* [cite_start]Automated Azure infrastructure provisioning using Terraform to eliminate manual processes[cite: 18].
+* [cite_start]Maintained end-to-end automated continuous integration and deployment pipelines with Azure DevOps[cite: 19].
+* [cite_start]Containerized core software architectures using Docker to ensure cross-environment consistency[cite: 20].
+* [cite_start]Managed platform observability and alert rule engines with Prometheus and Grafana[cite: 21].
+
+### 🔹 Featured Projects
+
+* [cite_start]**CI/CD Deployment Automation Pipeline:** Engineered scalable pipelines linking GitHub to Azure DevOps, reducing infrastructure delivery efforts by **70%** while serving workloads through containerized NGINX stacks on Linux[cite: 24, 25, 26, 27, 28].
+* [cite_start]**Multi-Environment Azure Setup:** Standardized isolated Dev, Staging, and Production cloud layouts using native Terraform modules combined with secure Azure Storage remote state-locking mechanisms[cite: 29, 30].
+* [cite_start]**Azure AKS Provisioning:** Developed declarative infrastructure blueprints using Terraform to launch managed Kubernetes clusters alongside native YAML deployment manifests[cite: 33, 34, 35].
+
+---
+
+## 🎓 Education & Focus
+
+<table>
+  <tr>
+    <th width="60%">🎓 Education</th>
+    <th width="40%">🎯 Current Focus</th>
+  </tr>
+  <tr>
+    <td>
+      <ul>
+        <li><b>B.Tech in Computer Science and Engineering</b> <br> Dr. A.P.J Abdul Kalam Technical University <br> <sub><b>CGPA: 8.4/10</b> | Sept 2022 – April 2026</sub></li>
+        <li><b>Intermediate & High School (PCM)</b> <br> Jawahar Navodaya Vidyalaya, Balrampur (CBSE) <br> <sub>Scores: 84.4% (Intermediate) | 84.6% (High School)</sub></li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>☸️ Azure Kubernetes Service (AKS)</li>
+        <li>⚙️ Declarative GitOps (ArgoCD)</li>
+        <li>🔐 Cloud Security Governance & IAM</li>
+        <li>📊 Cloud-Native Observability</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📄 Resume & Philosophy
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1NNVIkMjHcRsTIfT95aZs3OMLYzxxbqrZ/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/📥_Download_Resume-FF6EC4?style=for-the-badge"/>
+  </a>
+</p>
+
+> 🚀 **DevOps Philosophy:** Automate everything. Build scalable cloud systems. Deliver reliable deployments. Monitor, improve, and repeat.
+
 ## 🧠 About Me
 Hi, I am **Priya Jaiswal**, an aspiring **Azure Cloud & DevOps Engineer** from Lucknow, India. I possess hands-on internship experience specializing in cloud automation, infrastructure provisioning, robust CI/CD pipelines, and containerization platforms. I am passionate about automating infrastructure deployments, minimizing environment drift, and driving engineering efficiency through core DevOps methodologies.
 
