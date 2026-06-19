@@ -131,15 +131,6 @@ Provisioned AKS cluster using Terraform and created Kubernetes manifests for Pod
   <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pjaisw1103&theme=tokyonight"/>
 </p>
 
----
-
-## 📜 Certifications & Learning
-
-* Microsoft Azure Fundamentals **AZ-900**
-* Terraform Associate Learning Path
-* Docker & Kubernetes Essentials
-* Azure DevOps Fundamentals
-* Linux Administration Basics
 
 ---
 
