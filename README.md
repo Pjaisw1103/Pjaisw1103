@@ -178,25 +178,21 @@ Provisioned **Azure Kubernetes Service (AKS)** clusters using modular Terraform 
 
 ## 🎯 Current Focus
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Azure%20Cloud-Infrastructure-0078D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Terraform-Automation-6B46C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Azure%20DevOps-CI%2FCD-005A9C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AKS-Kubernetes-326CE5?style=for-the-badge"/>
-</p>
-
-* ☁️ Azure Cloud Infrastructure
-* ⚙️ Terraform Automation
-* 🔁 Azure DevOps CI/CD
-* ☸️ Kubernetes & Azure AKS
-* 🔐 Cloud Security, RBAC & IAM
+- ☁️ **Azure Cloud & Infrastructure**
+- 🏗️ **Terraform & Infrastructure as Code**
+- ⚙️ **Azure DevOps & GitHub Actions CI/CD**
+- 🔐 **DevSecOps & Shift-Left Security**
+- ☸️ **Kubernetes & Azure AKS**
+- 🐳 **Docker & Containerization**
+- 📊 **Prometheus & Grafana Monitoring**
+- 🐧 **Linux & Bash Automation**
 
 ---
 
 ## 📄 Resume
 
 <p align="center">
-  <a href="./Priya_Jaiswal_DevOps_Resume.pdf">
+  <a href="./Priya_Jaiswal_DevOps.pdf">
     <img src="https://img.shields.io/badge/Download%20Resume-0078D4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
@@ -217,7 +213,7 @@ Provisioned **Azure Kubernetes Service (AKS)** clusters using modular Terraform 
 ---
 
 <p align="center">
-  <b>⭐ Open to Azure Cloud / DevOps Engineer Opportunities ⭐</b>
+  <b>💼 Open to Azure Cloud | DevOps | DevSecOps Opportunities</b>
 </p>
 
 <p align="center">
