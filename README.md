@@ -1,11 +1,11 @@
 <!-- 🚀 Microsoft Azure DevOps Profile README | Priya Jaiswal -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=290&text=PRIYA%20JAISWAL&fontSize=58&fontAlignY=38&desc=Azure%20Cloud%20%7C%20DevOps%20%7C%20Terraform%20%7C%20CI%2FCD&descSize=20&descAlignY=58&fontColor=ffffff&animation=fadeIn&color=0:0078D4,50:005A9C,100:6B46C1"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=290&text=PRIYA%20JAISWAL&fontSize=58&fontAlignY=38&desc=Azure%20Cloud%20DevOps%20%7C%20DevSecOps%20%7C%20Terraform%20%7C%20CI%2FCD&descSize=20&descAlignY=58&fontColor=ffffff&animation=fadeIn&color=0:0078D4,50:005A9C,100:6B46C1"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=0078D4&center=true&vCenter=true&width=900&lines=Azure+Cloud+%26+DevOps+Engineer;Terraform+%7C+Azure+DevOps+%7C+Docker+%7C+Kubernetes;Building+Scalable+Cloud+Infrastructure;CI%2FCD+Automation+%7C+Monitoring+%7C+Linux"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=0078D4&center=true&vCenter=true&width=900&lines=Azure+Cloud+%26+DevSecOps+Engineer;Terraform+%7C+Azure+DevOps+%7C+Docker+%7C+Kubernetes+(AKS);Shift-Left+Security+%7C+SonarQube+%7C+TFSec+%7C+Checkov;CI%2FCD+Automation+%7C+Monitoring+%7C+Linux"/>
 </p>
 
 <p align="center">
@@ -27,37 +27,51 @@
 
 <img align="right" width="330" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-I am **Priya Jaiswal**, an aspiring **Azure Cloud & DevOps Engineer** from Lucknow, India.
+I am **Priya Jaiswal**, an **Azure Cloud DevOps & DevSecOps Engineer** based in Lucknow, India.
 
-I work with **Microsoft Azure, Terraform, Azure DevOps, Docker, Kubernetes, Linux, Prometheus, and Grafana** to build automated, scalable, and reliable cloud infrastructure.
+I specialize in **Microsoft Azure, Terraform, Azure DevOps, Kubernetes (AKS), DevSecOps, and Observability**. I am passionate about building resilient, automated, and security-first cloud operations.
 
-* ☁️ Building cloud infrastructure on **Microsoft Azure**
-* 🏗️ Automating provisioning using **Terraform**
-* ⚙️ Creating CI/CD workflows with **Azure DevOps**
-* 🐳 Deploying containerized apps using **Docker & Kubernetes**
-* 📊 Monitoring systems with **Prometheus & Grafana**
-* 🎯 Open to **Azure Cloud / DevOps Engineer** opportunities
+* ☁️ Provisioning scalable cloud infrastructure on **Microsoft Azure**
+* 🏗️ Automating infrastructure with **Terraform** (100% environment consistency)
+* 🔒 Integrating 'Shift-Left' DevSecOps tools (**SonarQube, TFSec, Checkov, TFLint**)
+* ⚙️ Creating automated CI/CD pipelines with **Azure DevOps & GitHub Actions**
+* 🐳 Orchestrating containerized workloads using **Docker & Azure AKS**
+* 📊 System observability with **Prometheus & Grafana**
+* 🎓 B.Tech in Computer Science & Engineering (CGPA: 8.43/10) from **AKTU**
+* 🎯 Open to **Azure Cloud / DevOps / DevSecOps Engineer** opportunities
 
 <br clear="right"/>
+
+---
+
+## 💼 Experience
+
+### 🚀 DevOps Engineer Intern @ DevOps Insiders *(2024 – 2025 | Remote)*
+* Provisioned modular Azure infrastructure using **Terraform** with remote state management & locking in Azure Blob Storage.
+* Designed automated **Azure DevOps CI/CD pipelines** and embedded **SonarQube, TFSec, and Checkov** quality gates.
+* Enforced strict IaC coding standards across pipelines using **TFLint**.
+* Containerized microservices with Docker (optimized with multi-stage builds) and deployed to **Azure Kubernetes Service (AKS)**.
+* Built **Prometheus & Grafana** dashboards to monitor cluster metrics and system health.
+* Authored custom Bash scripts for Linux server maintenance and performed root-cause analysis.
 
 ---
 
 ## 📈 Impact Metrics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Manual%20Effort-Reduced%2070%25-0078D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IaC-Terraform%20Modules-6B46C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/CI%2FCD-Azure%20DevOps-005A9C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Manual%20Effort-Eliminated-0078D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IaC-100%25%20Environment%20Consistency-6B46C1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Security-Shift--Left%20Integrated-005A9C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Monitoring-Prometheus%20%2B%20Grafana-22C55E?style=for-the-badge"/>
 </p>
 
-| Metric                     | Result                                          |
-| -------------------------- | ----------------------------------------------- |
-| **Terraform Automation**   | Reduced manual infrastructure effort by **70%** |
-| **Reusable IaC Modules**   | Standardized infrastructure setup               |
-| **Azure DevOps Pipelines** | Automated build, validation & deployment        |
-| **Docker Deployments**     | Consistent application releases                 |
-| **Monitoring Setup**       | Real-time dashboards & alerting                 |
+| Metric                      | Result                                                                          |
+| -------------------------- | ------------------------------------------------------------------------------- |
+| **Terraform Automation**   | 100% environment consistency across Dev, Staging & Production                   |
+| **DevSecOps Integration**  | Caught vulnerabilities pre-deployment using SonarQube, TFSec & Checkov          |
+| **Azure DevOps Pipelines** | Zero-touch automated build, security validation & deployment workflows           |
+| **Docker & AKS Deployments**| Optimized multi-stage builds with reduced footprint & high-availability AKS pods |
+| **Observability Setup**    | Real-time cluster health monitoring & custom alerting dashboards                |
 
 ---
 
@@ -69,17 +83,17 @@ I work with **Microsoft Azure, Terraform, Azure DevOps, Docker, Kubernetes, Linu
 
 ---
 
-## 🔄 DevOps Workflow
+## 🔄 DevSecOps Workflow
 
 ```mermaid
 flowchart LR
-    A["Code"] --> B["GitHub"]
-    B --> C["Azure DevOps"]
-    C --> D["Build & Validate"]
-    D --> E["Terraform"]
-    E --> F["Azure"]
-    F --> G["Docker / AKS"]
-    G --> H["Monitor"]
+    A["Code Push"] --> B["GitHub / Azure DevOps"]
+    B --> C["Static Analysis (SonarQube)"]
+    C --> D["IaC Security (TFSec / Checkov / TFLint)"]
+    D --> E["Terraform Provisioning"]
+    E --> F["Azure Infrastructure"]
+    F --> G["Docker / Azure AKS"]
+    G --> H["Observability (Prometheus & Grafana)"]
 ```
 
 ---
