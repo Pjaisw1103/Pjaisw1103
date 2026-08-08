@@ -62,85 +62,15 @@ I work with **Microsoft Azure, Terraform, Azure DevOps, GitHub Actions, Docker, 
 
 # 🧰 Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### ☁️ Cloud & Infrastructure
-
-<p>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white"/>
-</p>
-
-</td>
-
-<td valign="top" width="50%">
-
-### ⚙️ CI/CD & Automation
-
-<p>
-<img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### 🔐 DevSecOps & Code Quality
-
-<p>
-<img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
-<img src="https://img.shields.io/badge/TFSec-623CE4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/TFLint-844FBA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Checkov-000000?style=for-the-badge"/>
-</p>
-
-</td>
-
-<td valign="top">
-
-### 🐳 Containers & Orchestration
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### 📊 Monitoring & Observability
-
-<p>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-</p>
-
-</td>
-
-<td valign="top">
-
-### 🐧 OS, Scripting & Version Control
-
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
-</td>
-</tr>
-</table>
+| Category | Technologies |
+|----------|--------------|
+| ☁️ **Cloud** | Azure |
+| 🏗️ **Infrastructure as Code** | Terraform |
+| ⚙️ **CI/CD & Automation** | Azure DevOps · GitHub Actions · Git |
+| 🔐 **DevSecOps** | SonarQube · TFSec · TFLint · Checkov |
+| 🐳 **Containers & Orchestration** | Docker · Kubernetes · AKS |
+| 📊 **Monitoring** | Prometheus · Grafana |
+| 🐧 **OS & Scripting** | Linux · Ubuntu · Bash · Python |
 
 
 ---
