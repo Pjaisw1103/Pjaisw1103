@@ -25,6 +25,8 @@
 
 # 👋 About Me
 
+<img align="right" width="330" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+
 I am **Priya Jaiswal**, an aspiring **Azure Cloud, DevOps & DevSecOps Engineer** from Lucknow, India.
 
 I work with **Microsoft Azure, Terraform, Azure DevOps, GitHub Actions, Docker, Kubernetes (AKS), Linux, SonarQube, TFSec, TFLint, Checkov, Prometheus, and Grafana** to build automated, secure, scalable, and reliable cloud infrastructure.
