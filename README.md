@@ -85,6 +85,19 @@ I specialize in **Microsoft Azure, Terraform (IaC), CI/CD Automation, DevSecOps 
 
 ---
 
+## 🔄 DevSecOps Workflow
+
+```mermaid
+flowchart LR
+    A["Code (Git/GitHub)"] --> B["Azure DevOps CI/CD"]
+    B --> C["Code & Security Scan\n(SonarQube / Checkov / TFSec)"]
+    C --> D["IaC Provisioning\n(Terraform)"]
+    D --> E["Azure Cloud Infrastructure"]
+    E --> F["Container Deployment\n(Docker / AKS)"]
+    F --> G["Observability\n(Prometheus & Grafana)"]
+
+---
+
 ## 🚀 Featured Projects
 
 <table>
@@ -162,13 +175,4 @@ Provisioned production-ready Kubernetes clusters on Azure AKS using Terraform. A
   <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:6B46C1,50:005A9C,100:0078D4"/>
 </p>
 
-## 🔄 DevSecOps Workflow
 
-```mermaid
-flowchart LR
-    A["Code (Git/GitHub)"] --> B["Azure DevOps CI/CD"]
-    B --> C["Code & Security Scan\n(SonarQube / Checkov / TFSec)"]
-    C --> D["IaC Provisioning\n(Terraform)"]
-    D --> E["Azure Cloud Infrastructure"]
-    E --> F["Container Deployment\n(Docker / AKS)"]
-    F --> G["Observability\n(Prometheus & Grafana)"]
