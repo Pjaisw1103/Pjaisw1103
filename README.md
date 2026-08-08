@@ -85,6 +85,83 @@ I specialize in **Microsoft Azure, Terraform (IaC), CI/CD Automation, DevSecOps 
 
 ---
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="33%">
+
+### 🔒 CI/CD & DevSecOps Pipeline
+**Azure DevOps · SonarQube · Checkov · Docker · NGINX**
+
+Engineered an automated Azure DevOps CI/CD pipeline integrated with SonarQube for static code analysis and Checkov for IaC security scanning before deploying NGINX microservices on Linux.
+
+</td>
+<td width="33%">
+
+### ☁️ Multi-Env IaC Automation
+**Terraform · TFSec · TFLint · Azure Storage**
+
+Built reusable Terraform modules for Dev, Staging, and Production environments on Azure, enforcing TFSec & TFLint static analysis with Azure Blob Storage remote backend state locking.
+
+</td>
+<td width="33%">
+
+### ☸️ Azure AKS Cluster Deployment
+**Azure AKS · Kubernetes · Docker · YAML · Git**
+
+Provisioned production-ready Kubernetes clusters on Azure AKS using Terraform. Authored declarative YAML manifests with pod resource limits, networking, and cluster metrics monitoring.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pjaisw1103&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=6B46C1&text_color=FFFFFF"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Pjaisw1103&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=6B46C1&currStreakLabel=0078D4"/>
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pjaisw1103&theme=tokyonight"/>
+</p>
+
+---
+
+## 📄 Resume
+
+<p align="center">
+  <a href="./Priya_Jaiswal_DevOps.pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-0078D4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:priyajaisw9554@gmail.com">
+    <img src="https://img.shields.io/badge/Email-priyajaisw9554%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/priya-jaiswal1103">
+    <img src="https://img.shields.io/badge/LinkedIn-Priya%20Jaiswal-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>⭐ Open to Azure Cloud / DevOps / DevSecOps Engineer Opportunities ⭐</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:6B46C1,50:005A9C,100:0078D4"/>
+</p>
+
 ## 🔄 DevSecOps Workflow
 
 ```mermaid
