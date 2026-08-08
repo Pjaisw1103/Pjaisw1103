@@ -162,14 +162,24 @@ Provisioned **Azure Kubernetes Service (AKS)** clusters using modular Terraform 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Pjaisw1103&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0078D4&icon_color=6B46C1&text_color=FFFFFF"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Pjaisw1103&theme=tokyonight&hide_border=true&background=0D1117&ring=0078D4&fire=6B46C1&currStreakLabel=0078D4"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github"
+    width="48%"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true"
+    width="48%"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img width="70%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pjaisw1103&theme=tokyonight"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
+    alt="Top Languages"
+  />
 </p>
-
 
 ---
 
