@@ -117,8 +117,6 @@ Built an automated **Azure DevOps CI/CD pipeline** for application deployment wi
 - 🐳 Containerized web applications using **Docker**
 - 🌐 Deployed containerized applications with **NGINX on Linux nodes**
 
-🔗 **[View Project →]([YOUR_PROJECT_LINK](https://github.com/Pjaisw1103/CICD-Deployment-Automation-Pipeline.git))**
-
 ---
 
 ### ☁️ Multi-Environment Infrastructure Automation
@@ -134,8 +132,6 @@ Built reusable **Terraform modules** to provision isolated **Dev, Staging, and P
 - ☁️ Configured **Azure Blob Storage** for remote Terraform state
 - 🔒 Implemented **state locking** for secure team workflows
 
-🔗 **[View Project →]([YOUR_PROJECT_LINK](https://github.com/Pjaisw1103/Multi-Environment-Azure-Infrastructure-Setup.git))**
-
 ---
 
 ### ☸️ Azure AKS Cluster Provisioning & Deployment
@@ -150,8 +146,6 @@ Provisioned **Azure Kubernetes Service (AKS)** using modular Terraform scripts a
 - 🐳 Deployed **Docker-based containerized workloads**
 - ⚙️ Configured pod **resource limits & environment variables**
 - 🌐 Worked with **Kubernetes cluster networking**
-
-🔗 **[View Project →][(YOUR_PROJECT_LINK](https://github.com/Pjaisw1103/Azure-AKS-Provisioning-and-Deployment.git))**
 
 ---
 
