@@ -163,12 +163,13 @@ Provisioned **Azure Kubernetes Service (AKS)** clusters using modular Terraform 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true"
     width="48%"
     alt="GitHub Stats"
   />
+  
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=YOUR_GITHUB_USERNAME&hide_border=true"
     width="48%"
     alt="GitHub Streak"
   />
@@ -176,7 +177,7 @@ Provisioned **Azure Kubernetes Service (AKS)** clusters using modular Terraform 
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
     alt="Top Languages"
   />
 </p>
