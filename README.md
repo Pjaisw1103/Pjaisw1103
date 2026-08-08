@@ -94,34 +94,33 @@ flowchart LR
     C --> D["IaC Provisioning\n(Terraform)"]
     D --> E["Azure Cloud Infrastructure"]
     E --> F["Container Deployment\n(Docker / AKS)"]
-    F --> G["Observability\n(Prometheus & Grafana)"]
+    F --> G["Observability\n(Prometheus & Grafana)"]```
+
+---
 
 ## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="33%">
+<td width="33%" valign="top">
 
-### 🔒 CI/CD & DevSecOps Pipeline
-**Azure DevOps · SonarQube · Checkov · Docker · NGINX**
-
-Engineered an automated Azure DevOps CI/CD pipeline integrated with SonarQube for static code analysis and Checkov for IaC security scanning before deploying NGINX microservices on Linux.
-
-</td>
-<td width="33%">
-
-### ☁️ Multi-Env IaC Automation
-**Terraform · TFSec · TFLint · Azure Storage**
-
-Built reusable Terraform modules for Dev, Staging, and Production environments on Azure, enforcing TFSec & TFLint static analysis with Azure Blob Storage remote backend state locking.
+<h3>🔒 CI/CD & DevSecOps Pipeline</h3>
+<p><b>Azure DevOps · SonarQube · Checkov · Docker · NGINX</b></p>
+<p>Engineered an automated Azure DevOps CI/CD pipeline integrated with SonarQube for static code analysis and Checkov for IaC security scanning before deploying NGINX microservices on Linux.</p>
 
 </td>
-<td width="33%">
+<td width="33%" valign="top">
 
-### ☸️ Azure AKS Cluster Deployment
-**Azure AKS · Kubernetes · Docker · YAML · Git**
+<h3>☁️ Multi-Env IaC Automation</h3>
+<p><b>Terraform · TFSec · TFLint · Azure Storage</b></p>
+<p>Built reusable Terraform modules for Dev, Staging, and Production environments on Azure, enforcing TFSec & TFLint static analysis with Azure Blob Storage remote backend state locking.</p>
 
-Provisioned production-ready Kubernetes clusters on Azure AKS using Terraform. Authored declarative YAML manifests with pod resource limits, networking, and cluster metrics monitoring.
+</td>
+<td width="33%" valign="top">
+
+<h3>☸️ Azure AKS Cluster Deployment</h3>
+<p><b>Azure AKS · Kubernetes · Docker · YAML · Git</b></p>
+<p>Provisioned production-ready Kubernetes clusters on Azure AKS using Terraform. Authored declarative YAML manifests with pod resource limits, networking, and cluster metrics monitoring.</p>
 
 </td>
 </tr>
