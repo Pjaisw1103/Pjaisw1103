@@ -162,9 +162,16 @@ Provisioned **Azure Kubernetes Service (AKS)** clusters using modular Terraform 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pjaisw1103&show_icons=true&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pjaisw1103&hide_border=true" height="170" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pjaisw1103&layout=compact&hide_border=true" height="170" alt="Top Languages"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Pjaisw1103&theme=default&hide_border=true"
+    width="32%"
+    alt="GitHub Streak"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pjaisw1103&theme=default"
+    width="66%"
+    alt="GitHub Profile Summary"
+  />
 </p>
 
 ---
