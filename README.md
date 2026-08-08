@@ -310,7 +310,7 @@ Provisioned AKS cluster using Terraform and created Kubernetes manifests for Pod
 
 <p align="center">
 
-  <a href="./Priya_Jaiswal_DevOps_Resume.pdf">
+  <a href="./Priya_Jaiswal_DevOps.pdf">
 
     <img src="https://img.shields.io/badge/Download%20Resume-0078D4?style=for-the-badge&logo=googledrive&logoColor=white"/>
 
