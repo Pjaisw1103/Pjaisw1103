@@ -41,36 +41,34 @@ I leverage **Microsoft Azure, Terraform, Azure DevOps, Kubernetes (AKS), DevSecO
 - 🐧 **Linux Automation:** Streamlining system operations & maintenance using **Bash & Python**
 - 🎯 Open to **Azure Cloud / DevOps / DevSecOps Engineer** opportunities
 
-
 ---
 
 # 📈 Impact & Experience
 
 | Area | Impact |
 | ------------------------- | ---------------------------------------------- |
-| **Terraform Automation** | Provisioned scalable Azure infrastructure using reusable modules |
-| **Infrastructure Consistency** | Achieved consistent environments using modular IaC |
-| **CI/CD Automation** | Automated build, validation & deployment workflows |
-| **DevSecOps Integration** | Integrated SonarQube, TFSec, TFLint & Checkov into pipelines |
-| **Containerization** | Optimized Docker images using multi-stage builds |
-| **Kubernetes Deployment** | Deployed containerized workloads on Azure AKS |
-| **Monitoring & Observability** | Built Prometheus & Grafana dashboards for AKS and system metrics |
-| **Linux Automation** | Automated routine server maintenance and deployment tasks |
-
+| **Terraform Automation** | Provisioned scalable Azure infrastructure using modular IaC, reducing manual setup overhead |
+| **Infrastructure Consistency** | Enforced 100% environment consistency across Dev, Staging & Production with remote state locking |
+| **CI/CD Automation** | Designed zero-touch Azure DevOps & GitHub Actions pipelines for automated validation & deployment |
+| **DevSecOps Integration** | Shifted security left by embedding SonarQube, TFSec, TFLint & Checkov to catch vulnerabilities pre-deployment |
+| **Containerization** | Reduced image footprints & build times using optimized Docker multi-stage builds |
+| **Kubernetes Deployment** | Orchestrated microservices on Azure AKS with declarative YAML manifests, resource limits & network rules |
+| **Monitoring & Observability** | Built real-time Prometheus & Grafana dashboards for continuous AKS health & system metric tracking |
+| **Linux Automation** | Authored custom Bash & Python scripts to streamline system maintenance, troubleshooting, and deployments |
 
 ---
 
 # 🧰 Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
-| ☁️ **Cloud** | Azure |
-| 🏗️ **Infrastructure as Code** | Terraform |
-| ⚙️ **CI/CD & Automation** | Azure DevOps · GitHub Actions · Git |
-| 🔐 **DevSecOps** | SonarQube · TFSec · TFLint · Checkov |
-| 🐳 **Containers & Orchestration** | Docker · Kubernetes · AKS |
-| 📊 **Monitoring** | Prometheus · Grafana |
-| 🐧 **OS & Scripting** | Linux · Ubuntu · Bash · Python |
+| Category                          | Technologies                              |
+| --------------------------------- | ----------------------------------------- |
+| ☁️ **Cloud**                      | Microsoft Azure                            |
+| 🏗️ **Infrastructure as Code**    | Terraform                                  |
+| ⚙️ **CI/CD & Automation**         | Azure DevOps · GitHub Actions · Git        |
+| 🔐 **DevSecOps & Code Quality**   | SonarQube · TFSec · TFLint · Checkov       |
+| 🐳 **Containers & Orchestration** | Docker · Kubernetes · Azure AKS             |
+| 📊 **Monitoring & Observability** | Prometheus · Grafana                       |
+| 🐧 **OS & Scripting**             | Linux · Ubuntu · Bash · Python             |
 
 
 ---
@@ -111,16 +109,15 @@ flowchart LR
 
 **Azure DevOps · SonarQube · Checkov · Docker · NGINX**
 
-Engineered an automated **Azure DevOps CI/CD pipeline** for seamless application deployments with integrated code quality and Infrastructure-as-Code security scanning.
+Built an automated **Azure DevOps CI/CD pipeline** for application deployment with integrated code quality and Infrastructure-as-Code security checks.
 
-- ⚙️ Automated application deployment using **Azure DevOps**
+- ⚙️ Automated application deployment through **Azure DevOps CI/CD**
 - 🔍 Integrated **SonarQube** for static code analysis
-- 🔐 Integrated **Checkov** for automated IaC security scanning
+- 🔐 Added **Checkov** for IaC security scanning
 - 🐳 Containerized web applications using **Docker**
-- 🌐 Deployed applications using **NGINX on Linux nodes**
+- 🌐 Deployed containerized applications with **NGINX on Linux nodes**
 
-🔗 **[View Project →](YOUR_PROJECT_LINK)**
-
+🔗 **[View Project →]([YOUR_PROJECT_LINK](https://github.com/Pjaisw1103/CICD-Deployment-Automation-Pipeline.git))**
 
 ---
 
@@ -128,17 +125,16 @@ Engineered an automated **Azure DevOps CI/CD pipeline** for seamless application
 
 **Terraform · Azure Storage · TFSec · TFLint**
 
-Developed reusable **Terraform modules** to provision isolated **Dev, Staging, and Production** environments on Microsoft Azure.
+Built reusable **Terraform modules** to provision isolated **Dev, Staging, and Production** environments on Microsoft Azure.
 
-- 🏗️ Created reusable **Terraform modules** for environment provisioning
-- 🌍 Managed isolated **Dev, Staging & Production** environments
-- 🔐 Integrated **TFSec** for Infrastructure-as-Code security analysis
-- 🧹 Integrated **TFLint** for Terraform code quality and standards
+- 🏗️ Developed reusable **Terraform modules** for environment provisioning
+- 🌍 Managed separate **Dev, Staging & Production** environments
+- 🔐 Integrated **TFSec** to identify IaC security issues
+- 🧹 Used **TFLint** for Terraform code quality and standards
 - ☁️ Configured **Azure Blob Storage** for remote Terraform state
 - 🔒 Implemented **state locking** for secure team workflows
 
-🔗 **[View Project →](YOUR_PROJECT_LINK)**
-
+🔗 **[View Project →]([YOUR_PROJECT_LINK](https://github.com/Pjaisw1103/Multi-Environment-Azure-Infrastructure-Setup.git))**
 
 ---
 
@@ -146,16 +142,16 @@ Developed reusable **Terraform modules** to provision isolated **Dev, Staging, a
 
 **Azure AKS · Kubernetes · Terraform · Docker · YAML · Git**
 
-Provisioned **Azure Kubernetes Service (AKS)** clusters using modular Terraform scripts and deployed workloads using declarative Kubernetes configurations.
+Provisioned **Azure Kubernetes Service (AKS)** using modular Terraform scripts and deployed applications using declarative Kubernetes configurations.
 
-- ☸️ Provisioned **AKS clusters** using modular Terraform
-- 📄 Created declarative **Kubernetes YAML manifests**
-- 🚀 Configured Kubernetes **Deployments & Services**
-- 🐳 Worked with **Docker-based containerized workloads**
-- ⚙️ Configured pod **resource limits and environment variables**
-- 🌐 Configured **Kubernetes cluster networking workflows**
+- ☸️ Provisioned **AKS infrastructure** using Terraform
+- 📄 Created Kubernetes **YAML manifests**
+- 🚀 Managed application **Deployments & Services**
+- 🐳 Deployed **Docker-based containerized workloads**
+- ⚙️ Configured pod **resource limits & environment variables**
+- 🌐 Worked with **Kubernetes cluster networking**
 
-🔗 **[View Project →](YOUR_PROJECT_LINK)**
+🔗 **[View Project →][(YOUR_PROJECT_LINK](https://github.com/Pjaisw1103/Azure-AKS-Provisioning-and-Deployment.git))**
 
 ---
 
