@@ -31,18 +31,15 @@ I am **Priya Jaiswal**, an **Azure Cloud, DevOps & DevSecOps Engineer** passiona
 
 I leverage **Microsoft Azure, Terraform, Azure DevOps, Kubernetes (AKS), DevSecOps tools, and Observability stacks** to design scalable enterprise solutions.
 
-* ☁️ **Cloud Architecture:** Provisioning scalable & reliable infrastructure on **Microsoft Azure**
-* 🏗️ **Infrastructure as Code:** Automating provisioning with **Terraform** ensuring 100% environment consistency
-* ⚙️ **CI/CD Pipelines:** Designing automated deployment workflows using **Azure DevOps & GitHub Actions**
-* 🔐 **Shift-Left Security:** Enforcing pre-deployment security gates using **SonarQube, TFSec, TFLint & Checkov**
-* 🐳 **Containerization:** Packaging microservices using **Docker** with optimized multi-stage builds
-* ☸️ **Orchestration:** Deploying and managing containerized workloads on **Azure Kubernetes Service (AKS)**
-* 📊 **Observability:** Setting up real-time monitoring & custom dashboards using **Prometheus & Grafana**
-* 🐧 **Automation & Scripting:** Streamlining Linux cloud operations using **Bash & Python**
-* 🎓 **Academic Background:** B.Tech in CSE (CGPA: 8.43/10) from **AKTU**
-* 🎯 **Career Goal:** Open to **Azure Cloud / DevOps / DevSecOps Engineer** opportunities
-
-<br clear="right"/>
+- ☁️ **Cloud Architecture:** Provisioning scalable & reliable infrastructure on **Microsoft Azure**
+- 🏗️ **Infrastructure as Code:** Automating provisioning with **Terraform** ensuring 100% environment consistency
+- ⚙️ **CI/CD Pipelines:** Designing automated deployment workflows using **Azure DevOps & GitHub Actions**
+- 🔐 **Shift-Left Security:** Enforcing security gates using **SonarQube, TFSec, TFLint & Checkov**
+- 🐳 **Containerization:** Packaging microservices using **Docker** with optimized multi-stage builds
+- ☸️ **Orchestration:** Deploying and managing containerized workloads on **Kubernetes & Azure AKS**
+- 📊 **Observability:** Setting up real-time monitoring & alerting using **Prometheus & Grafana**
+- 🐧 **Linux Automation:** Streamlining system operations & maintenance using **Bash & Python**
+- 🎯 Open to **Azure Cloud / DevOps / DevSecOps Engineer** opportunities
 
 
 ---
