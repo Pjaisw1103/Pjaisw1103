@@ -27,19 +27,22 @@
 
 <img align="right" width="330" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-I am **Priya Jaiswal**, an aspiring **Azure Cloud, DevOps & DevSecOps Engineer**.
+I am **Priya Jaiswal**, an **Azure Cloud, DevOps & DevSecOps Engineer** passionate about building automated, resilient, and security-first cloud operations.
 
-I work with **Microsoft Azure, Terraform, Azure DevOps, GitHub Actions, Docker, Kubernetes (AKS), Linux, SonarQube, TFSec, TFLint, Checkov, Prometheus, and Grafana** to build automated, secure, scalable, and reliable cloud infrastructure.
+I leverage **Microsoft Azure, Terraform, Azure DevOps, Kubernetes (AKS), DevSecOps tools, and Observability stacks** to design scalable enterprise solutions.
 
-- ☁️ Building cloud infrastructure on **Microsoft Azure**
-- 🏗️ Automating infrastructure provisioning using **Terraform**
-- ⚙️ Creating CI/CD workflows with **Azure DevOps & GitHub Actions**
-- 🔐 Implementing **DevSecOps** using SonarQube, TFSec, TFLint & Checkov
-- 🐳 Containerizing applications using **Docker**
-- ☸️ Deploying workloads using **Kubernetes & Azure AKS**
-- 📊 Monitoring infrastructure and applications with **Prometheus & Grafana**
-- 🐧 Automating Linux operations using **Bash & Python**
-- 🎯 Open to **Azure Cloud / DevOps / DevSecOps Engineer** opportunities
+* ☁️ **Cloud Architecture:** Provisioning scalable & reliable infrastructure on **Microsoft Azure**
+* 🏗️ **Infrastructure as Code:** Automating provisioning with **Terraform** ensuring 100% environment consistency
+* ⚙️ **CI/CD Pipelines:** Designing automated deployment workflows using **Azure DevOps & GitHub Actions**
+* 🔐 **Shift-Left Security:** Enforcing pre-deployment security gates using **SonarQube, TFSec, TFLint & Checkov**
+* 🐳 **Containerization:** Packaging microservices using **Docker** with optimized multi-stage builds
+* ☸️ **Orchestration:** Deploying and managing containerized workloads on **Azure Kubernetes Service (AKS)**
+* 📊 **Observability:** Setting up real-time monitoring & custom dashboards using **Prometheus & Grafana**
+* 🐧 **Automation & Scripting:** Streamlining Linux cloud operations using **Bash & Python**
+* 🎓 **Academic Background:** B.Tech in CSE (CGPA: 8.43/10) from **AKTU**
+* 🎯 **Career Goal:** Open to **Azure Cloud / DevOps / DevSecOps Engineer** opportunities
+
+<br clear="right"/>
 
 
 ---
