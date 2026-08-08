@@ -94,7 +94,7 @@ flowchart LR
     C --> D["IaC Provisioning\n(Terraform)"]
     D --> E["Azure Cloud Infrastructure"]
     E --> F["Container Deployment\n(Docker / AKS)"]
-    F --> G["Observability\n(Prometheus & Grafana)"]```
+    F --> G["Observability\n(Prometheus & Grafana)"]
 
 ---
 
