@@ -23,77 +23,103 @@
 
 ---
 
-## 👋 About Me
+# 👋 About Me
 
-<img align="right" width="330" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+I am **Priya Jaiswal**, an aspiring **Azure Cloud, DevOps & DevSecOps Engineer** from Lucknow, India.
 
-I am **Priya Jaiswal**, an **Azure Cloud DevOps & DevSecOps Engineer** based in Lucknow, India.
+I work with **Microsoft Azure, Terraform, Azure DevOps, GitHub Actions, Docker, Kubernetes (AKS), Linux, SonarQube, TFSec, TFLint, Checkov, Prometheus, and Grafana** to build automated, secure, scalable, and reliable cloud infrastructure.
 
-I specialize in **Microsoft Azure, Terraform, Azure DevOps, Kubernetes (AKS), DevSecOps, and Observability**. I am passionate about building resilient, automated, and security-first cloud operations.
+- ☁️ Building cloud infrastructure on **Microsoft Azure**
+- 🏗️ Automating infrastructure provisioning using **Terraform**
+- ⚙️ Creating CI/CD workflows with **Azure DevOps & GitHub Actions**
+- 🔐 Implementing **DevSecOps** using SonarQube, TFSec, TFLint & Checkov
+- 🐳 Containerizing applications using **Docker**
+- ☸️ Deploying workloads using **Kubernetes & Azure AKS**
+- 📊 Monitoring infrastructure and applications with **Prometheus & Grafana**
+- 🐧 Automating Linux operations using **Bash & Python**
+- 🎯 Open to **Azure Cloud / DevOps / DevSecOps Engineer** opportunities
 
-* ☁️ Provisioning scalable cloud infrastructure on **Microsoft Azure**
-* 🏗️ Automating infrastructure with **Terraform** (100% environment consistency)
-* 🔒 Integrating 'Shift-Left' DevSecOps tools (**SonarQube, TFSec, Checkov, TFLint**)
-* ⚙️ Creating automated CI/CD pipelines with **Azure DevOps & GitHub Actions**
-* 🐳 Orchestrating containerized workloads using **Docker & Azure AKS**
-* 📊 System observability with **Prometheus & Grafana**
-* 🎓 B.Tech in Computer Science & Engineering (CGPA: 8.43/10) from **AKTU**
-* 🎯 Open to **Azure Cloud / DevOps / DevSecOps Engineer** opportunities
-
-<br clear="right"/>
 
 ---
 
-## 💼 Experience
+# 📈 Impact & Experience
 
-### 🚀 DevOps Engineer Intern @ DevOps Insiders *(2024 – 2025 | Remote)*
-* Provisioned modular Azure infrastructure using **Terraform** with remote state management & locking in Azure Blob Storage.
-* Designed automated **Azure DevOps CI/CD pipelines** and embedded **SonarQube, TFSec, and Checkov** quality gates.
-* Enforced strict IaC coding standards across pipelines using **TFLint**.
-* Containerized microservices with Docker (optimized with multi-stage builds) and deployed to **Azure Kubernetes Service (AKS)**.
-* Built **Prometheus & Grafana** dashboards to monitor cluster metrics and system health.
-* Authored custom Bash scripts for Linux server maintenance and performed root-cause analysis.
+| Area | Impact |
+| ------------------------- | ---------------------------------------------- |
+| **Terraform Automation** | Provisioned scalable Azure infrastructure using reusable modules |
+| **Infrastructure Consistency** | Achieved consistent environments using modular IaC |
+| **CI/CD Automation** | Automated build, validation & deployment workflows |
+| **DevSecOps Integration** | Integrated SonarQube, TFSec, TFLint & Checkov into pipelines |
+| **Containerization** | Optimized Docker images using multi-stage builds |
+| **Kubernetes Deployment** | Deployed containerized workloads on Azure AKS |
+| **Monitoring & Observability** | Built Prometheus & Grafana dashboards for AKS and system metrics |
+| **Linux Automation** | Automated routine server maintenance and deployment tasks |
 
----
-
-## 📈 Impact Metrics
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Manual%20Effort-Eliminated-0078D4?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IaC-100%25%20Environment%20Consistency-6B46C1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Security-Shift--Left%20Integrated-005A9C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Monitoring-Prometheus%20%2B%20Grafana-22C55E?style=for-the-badge"/>
-</p>
-
-| Metric                      | Result                                                                          |
-| -------------------------- | ------------------------------------------------------------------------------- |
-| **Terraform Automation**   | 100% environment consistency across Dev, Staging & Production                   |
-| **DevSecOps Integration**  | Caught vulnerabilities pre-deployment using SonarQube, TFSec & Checkov          |
-| **Azure DevOps Pipelines** | Zero-touch automated build, security validation & deployment workflows           |
-| **Docker & AKS Deployments**| Optimized multi-stage builds with reduced footprint & high-availability AKS pods |
-| **Observability Setup**    | Real-time cluster health monitoring & custom alerting dashboards                |
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,linux,git,github,githubactions,python,bash,nginx,grafana,prometheus,vscode"/>
-</p>
+### ☁️ Cloud
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🏗️ Infrastructure as Code
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
+### ⚙️ CI/CD & Automation
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### 🔐 DevSecOps & Code Quality
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+![TFSec](https://img.shields.io/badge/TFSec-623CE4?style=for-the-badge)
+![TFLint](https://img.shields.io/badge/TFLint-844FBA?style=for-the-badge)
+![Checkov](https://img.shields.io/badge/Checkov-000000?style=for-the-badge)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 📊 Monitoring & Observability
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+
+### 🐧 OS & Scripting
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 ---
 
-## 🔄 DevSecOps Workflow
+# 🔄 DevSecOps Workflow
 
 ```mermaid
 flowchart LR
-    A["Code Push"] --> B["GitHub / Azure DevOps"]
-    B --> C["Static Analysis (SonarQube)"]
-    C --> D["IaC Security (TFSec / Checkov / TFLint)"]
-    D --> E["Terraform Provisioning"]
-    E --> F["Azure Infrastructure"]
-    F --> G["Docker / Azure AKS"]
-    G --> H["Observability (Prometheus & Grafana)"]
+    A["👩‍💻 Code"] --> B["Git / GitHub"]
+    B --> C["Azure DevOps / GitHub Actions"]
+    C --> D["Build & Validate"]
+
+    D --> E["SonarQube"]
+    D --> F["TFLint"]
+    D --> G["TFSec"]
+    D --> H["Checkov"]
+
+    E --> I["Quality & Security Gates"]
+    F --> I
+    G --> I
+    H --> I
+
+    I --> J["Terraform"]
+    J --> K["Microsoft Azure"]
+
+    K --> L["Docker"]
+    L --> M["Azure AKS"]
+
+    M --> N["Prometheus"]
+    N --> O["Grafana"]
 ```
 
 ---
