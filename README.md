@@ -107,37 +107,55 @@ flowchart LR
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="33%">
+### 🚀 CI/CD Pipeline with Code Quality & Security Scanning
 
-### 🚀 CI/CD Pipeline
+**Azure DevOps · SonarQube · Checkov · Docker · NGINX**
 
-**Azure DevOps · Terraform · Docker · NGINX**
+Engineered an automated **Azure DevOps CI/CD pipeline** for seamless application deployments with integrated code quality and Infrastructure-as-Code security scanning.
 
-Automated CI/CD workflows integrated with GitHub, Terraform provisioning, and Docker-based deployment on Linux servers.
+- ⚙️ Automated application deployment using **Azure DevOps**
+- 🔍 Integrated **SonarQube** for static code analysis
+- 🔐 Integrated **Checkov** for automated IaC security scanning
+- 🐳 Containerized web applications using **Docker**
+- 🌐 Deployed applications using **NGINX on Linux nodes**
 
-</td>
-<td width="33%">
+🔗 **[View Project →](YOUR_PROJECT_LINK)**
 
-### ☁️ Azure Infrastructure
 
-**Terraform · Azure Storage · Azure Pipelines**
+---
 
-Reusable Terraform modules for Dev, Staging, and Production environments with remote backend and state locking.
+### ☁️ Multi-Environment Infrastructure Automation
 
-</td>
-<td width="33%">
+**Terraform · Azure Storage · TFSec · TFLint**
 
-### ☸️ AKS Deployment
+Developed reusable **Terraform modules** to provision isolated **Dev, Staging, and Production** environments on Microsoft Azure.
 
-**Azure AKS · Kubernetes · YAML · Git**
+- 🏗️ Created reusable **Terraform modules** for environment provisioning
+- 🌍 Managed isolated **Dev, Staging & Production** environments
+- 🔐 Integrated **TFSec** for Infrastructure-as-Code security analysis
+- 🧹 Integrated **TFLint** for Terraform code quality and standards
+- ☁️ Configured **Azure Blob Storage** for remote Terraform state
+- 🔒 Implemented **state locking** for secure team workflows
 
-Provisioned AKS cluster using Terraform and created Kubernetes manifests for Pods and Deployments.
+🔗 **[View Project →](YOUR_PROJECT_LINK)**
 
-</td>
-</tr>
-</table>
+
+---
+
+### ☸️ Azure AKS Cluster Provisioning & Deployment
+
+**Azure AKS · Kubernetes · Terraform · Docker · YAML · Git**
+
+Provisioned **Azure Kubernetes Service (AKS)** clusters using modular Terraform scripts and deployed workloads using declarative Kubernetes configurations.
+
+- ☸️ Provisioned **AKS clusters** using modular Terraform
+- 📄 Created declarative **Kubernetes YAML manifests**
+- 🚀 Configured Kubernetes **Deployments & Services**
+- 🐳 Worked with **Docker-based containerized workloads**
+- ⚙️ Configured pod **resource limits and environment variables**
+- 🌐 Configured **Kubernetes cluster networking workflows**
+
+🔗 **[View Project →](YOUR_PROJECT_LINK)**
 
 ---
 
