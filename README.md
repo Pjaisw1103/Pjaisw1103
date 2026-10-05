@@ -1,11 +1,11 @@
 <!-- 🚀 Microsoft Azure Cloud & DevOps Engineer Profile README | Priya Jaiswal -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=PRIYA%20JAISWAL&fontSize=56&fontAlignY=36&desc=Azure%20Cloud%20%7C%20DevOps%20Engineer%20%7C%20Terraform%20IaC%20%7C%20CI%2FCD&descSize=19&descAlignY=57&fontColor=FFFFFF&animation=twinkling&color=0:050505,30:1A1A1D,65:996515,85:D4AF37,100:FFD700"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=PRIYA%20JAISWAL&fontSize=56&fontAlignY=36&desc=Azure%20Cloud%20%7C%20DevOps%20Engineer%20%7C%20Terraform%20IaC%20%7C%20CI%2FCD&descSize=19&descAlignY=57&fontColor=FFFFFF&animation=twinkling&color=0:0D1117,45:0078D4,100:00F0FF"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&color=FFD700&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer+%E2%9A%A1%EF%B8%8F;Automating+Zero-Drift+Azure+Infra+with+Terraform+%F0%9F%8F%97%EF%B8%8F;Azure+DevOps+YAML+Pipelines+%2B+GitHub+Actions+%E2%9A%99%EF%B8%8F;Shift-Left+Security+%7C+tfsec+%2B+TFLint+%F0%9F%9F%A2;DevOps+Engineer+Intern+%40+DevOps+Insiders+%F0%9F%92%BB"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&color=00F0FF&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer+%E2%9A%A1%EF%B8%8F;Automating+Zero-Drift+Azure+Infra+with+Terraform+%F0%9F%8F%97%EF%B8%8F;Azure+DevOps+YAML+Pipelines+%2B+GitHub+Actions+%E2%9A%99%EF%B8%8F;Shift-Left+Security+%7C+tfsec+%2B+TFLint+%F0%9F%9F%A2;DevOps+Engineer+Intern+%40+DevOps+Insiders+%F0%9F%92%BB"/>
 </p>
 
 <p align="center">
@@ -13,19 +13,19 @@
     <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:priyajaisw9554@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="./Priya_Jaiswal_DevOps.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume_PDF-D4AF37?style=for-the-badge&logo=adobeacrobatreader&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Resume_PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Pjaisw1103&label=Profile%20Views&color=D4AF37&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Pjaisw1103&label=Profile%20Views&color=0078D4&style=for-the-badge"/>
 </p>
 
 ---
 
 ## 📌 About Me
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212284100-561b9735-492b-4494-b31c-c7604313f8c8.gif" alt="3D DevOps Engineer Working" />
+<img align="right" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="3D DevOps Developer Working" />
 
 I am **Priya Jaiswal**, a result-driven **Azure Cloud & DevOps Engineer** specializing in architecting zero-drift cloud infrastructure, building automated multi-stage CI/CD pipelines, and integrating shift-left security governance.
 
@@ -38,6 +38,30 @@ I am **Priya Jaiswal**, a result-driven **Azure Cloud & DevOps Engineer** specia
 - 🛡️ **Infrastructure Control:** Zero-trust NSGs, PR validation gates, and Linux system diagnostics
 
 <br clear="right"/>
+
+---
+
+## 🧰 Tech Stack & Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-0078D4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0078D4?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0078D4?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-0078D4?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/tfsec-0078D4?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/TFLint-0078D4?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</p>
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| ☁️ **Cloud Platform** | **Microsoft Azure** *(VNets, Subnets, VMs, Bastion, Storage Accounts, Load Balancer)* |
+| 🏗️ **Infrastructure as Code** | **Terraform** *(Reusable Modules, Remote State Locking, Variables, Providers)* |
+| ⚙️ **CI/CD & Automation** | **Azure DevOps** *(YAML Pipelines)*, **GitHub Actions**, **Git** |
+| 🛡️ **DevSecOps & Quality** | **tfsec** *(Security Analysis)*, **TFLint** *(IaC Linting)* |
+| 🐳 **Containers & OS** | **Docker** *(Containerization, Multi-stage Builds)*, **Linux** *(Ubuntu Administration)* |
+| 🌐 **Networking & Security** | Subnets, Network Security Groups (NSGs), Ports, Inbound/Outbound Rules, SSH Keys |
 
 ---
 
@@ -91,50 +115,22 @@ flowchart LR
     H --> I["3-Tier Infra (Web, App, DB Tiers)"]
     H --> J["Azure Bastion & Zero-Trust NSGs"]
 
-    style A fill:#0b0b0e,stroke:#ffd700,stroke-width:2px,color:#fff
-    style C fill:#1a1a1d,stroke:#d4af37,stroke-width:2px,color:#fff
-    style F fill:#1a1a1d,stroke:#ffd700,stroke-width:2px,color:#ffd700
-    style G fill:#0b0b0e,stroke:#d4af37,stroke-width:2px,color:#fff
-    style H fill:#0b0b0e,stroke:#ffd700,stroke-width:2px,color:#fff
-    style I fill:#0b0b0e,stroke:#d4af37,stroke-width:2px,color:#fff
-    style J fill:#0b0b0e,stroke:#ffd700,stroke-width:2px,color:#fff
+    style A fill:#0d1117,stroke:#00f0ff,stroke-width:2px,color:#fff
+    style C fill:#0d1117,stroke:#0078d4,stroke-width:2px,color:#fff
+    style F fill:#003b73,stroke:#00f0ff,stroke-width:2px,color:#00f0ff
+    style G fill:#0d1117,stroke:#0078d4,stroke-width:2px,color:#fff
+    style H fill:#0d1117,stroke:#00f0ff,stroke-width:2px,color:#fff
+    style I fill:#0d1117,stroke:#0078d4,stroke-width:2px,color:#fff
+    style J fill:#0d1117,stroke:#00f0ff,stroke-width:2px,color:#fff
 ```
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/tfsec-D4AF37?style=for-the-badge&logo=shield&logoColor=black" />
-  <img src="https://img.shields.io/badge/TFLint-0078D4?style=for-the-badge&logo=checkmarx&logoColor=white" />
-</p>
-
-| Category | Technologies & Tools |
-| :--- | :--- |
-| ☁️ **Cloud Platform** | **Microsoft Azure** *(VNets, Subnets, VMs, Bastion, Storage Accounts, Load Balancer)* |
-| 🏗️ **Infrastructure as Code** | **Terraform** *(Reusable Modules, Remote State Locking, Variables, Providers)* |
-| ⚙️ **CI/CD & Automation** | **Azure DevOps** *(YAML Pipelines)*, **GitHub Actions**, **Git** |
-| 🛡️ **DevSecOps & Quality** | **tfsec** *(Security Analysis)*, **TFLint** *(IaC Linting)* |
-| 🐳 **Containers & OS** | **Docker** *(Containerization, Multi-stage Builds)*, **Linux** *(Ubuntu Administration)* |
-| 🌐 **Networking & Security** | Subnets, Network Security Groups (NSGs), Ports, Inbound/Outbound Rules, SSH Keys |
-
----
-
-## 📊 GitHub Analytics & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pjaisw1103&show_icons=true&hide_border=false&border_color=D4AF37&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0B0B0E" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pjaisw1103&layout=compact&hide_border=false&border_color=D4AF37&title_color=FFD700&text_color=ffffff&bg_color=0B0B0E" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pjaisw1103&hide_border=false&border=D4AF37&background=0B0B0E&stroke=FFD700&ring=D4AF37&fire=FFD700&currStreakLabel=FFD700" width="95%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pjaisw1103&show_icons=true&hide_border=false&border_color=0078D4&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pjaisw1103&layout=compact&hide_border=false&border_color=0078D4&title_color=00F0FF&text_color=ffffff&bg_color=0D1117" width="48%" />
 </p>
 
 ---
@@ -146,10 +142,10 @@ flowchart LR
     <img src="https://img.shields.io/badge/LinkedIn-Priya_Jaiswal-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:priyajaisw9554@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-priyajaisw9554%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-priyajaisw9554%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="./Priya_Jaiswal_DevOps.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download_PDF-D4AF37?style=for-the-badge&logo=adobeacrobatreader&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Resume-Download_PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
   </a>
 </p>
 
@@ -158,8 +154,9 @@ flowchart LR
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050505,30:1A1A1D,65:996515,85:D4AF37,100:FFD700"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,45:0078D4,100:00F0FF"/>
 </p>
+
 
 
 
