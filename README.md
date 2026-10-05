@@ -128,10 +128,12 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Contribution Activity Graph
+## 📊 GitHub Analytics & Streak Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pjaisw1103&theme=tokyo-night&hide_border=false&border_color=0078D4&bg_color=0D1117&color=00F0FF&line=0078D4&point=00F0FF&area=true" width="98%" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pjaisw1103&show_icons=true&hide_border=false&border_color=0078D4&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=0D1117" width="48%" alt="GitHub Overall Stats" />
+  &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=Pjaisw1103&theme=dark&background=0D1117&border=0078D4&stroke=00F0FF&ring=0078D4&fire=00F0FF&currStreakLabel=00F0FF&hide_border=false" width="48%" alt="GitHub Streak Activity Graph" />
 </p>
 
 ---
@@ -157,6 +159,7 @@ flowchart LR
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,45:0078D4,100:00F0FF"/>
 </p>
+
 
 
 
