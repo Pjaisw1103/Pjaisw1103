@@ -128,12 +128,16 @@ flowchart LR
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 📊 GitHub Analytics & Activity Graph
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pjaisw1103&show_icons=true&hide_border=false&border_color=0078D4&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=0D1117&card_width=420" height="195" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pjaisw1103&layout=compact&hide_border=false&border_color=0078D4&title_color=00F0FF&text_color=ffffff&bg_color=0D1117&card_width=420&langs_count=5" height="195" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pjaisw1103&theme=tokyo-night&hide_border=false&border_color=0078D4&bg_color=0D1117&color=00F0FF&line=0078D4&point=00F0FF&area=true" width="97%" alt="Contribution Activity Graph" />
 </p>
 
 ---
@@ -159,6 +163,7 @@ flowchart LR
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,45:0078D4,100:00F0FF"/>
 </p>
+
 
 
 
