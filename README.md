@@ -1,17 +1,14 @@
-<!-- 🚀 Microsoft Azure DevOps & DevSecOps Profile README | Priya Jaiswal -->
+<!-- 🚀 Microsoft Azure Cloud & DevOps Engineer Profile README | Priya Jaiswal -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=270&text=PRIYA%20JAISWAL&fontSize=54&fontAlignY=38&desc=Azure%20Cloud%20DevOps%20%7C%20DevSecOps%20%7C%20Terraform%20IaC%20%7C%20Kubernetes%20(AKS)&descSize=19&descAlignY=58&fontColor=ffffff&animation=fadeIn&color=0:003B73,40:0078D4,80:00A4EF,100:00F0FF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&text=PRIYA%20JAISWAL&fontSize=56&fontAlignY=36&desc=Azure%20Cloud%20%7C%20DevOps%20Engineer%20%7C%20Terraform%20IaC%20%7C%20CI%2FCD&descSize=19&descAlignY=57&fontColor=FFFFFF&animation=twinkling&color=0:050505,30:1A1A1D,65:996515,85:D4AF37,100:FFD700"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=23&duration=2400&pause=900&color=00F0FF&center=true&vCenter=true&width=900&lines=Azure+Cloud+%26+DevSecOps+Engineer;Terraform+IaC+%7C+Azure+DevOps+%7C+Docker+%7C+Kubernetes+(AKS);Shift-Left+Security+%7C+SonarQube+%7C+TFSec+%7C+Checkov;1+Year+Internship+%40+DevOps+Insiders+%7C+Immediate+Joiner;Interactive+Portfolio+%7C+pjaisw1103.github.io%2Fpriyajaiswal.github.io"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2200&pause=800&color=FFD700&center=true&vCenter=true&width=900&lines=Cloud+%26+DevOps+Engineer+%E2%9A%A1%EF%B8%8F;Automating+Zero-Drift+Azure+Infra+with+Terraform+%F0%9F%8F%97%EF%B8%8F;Azure+DevOps+YAML+Pipelines+%2B+GitHub+Actions+%E2%9A%99%EF%B8%8F;Shift-Left+Security+%7C+tfsec+%2B+TFLint+%F0%9F%9F%A2;DevOps+Engineer+Intern+%40+DevOps+Insiders+%F0%9F%92%BB"/>
 </p>
 
 <p align="center">
-  <a href="https://pjaisw1103.github.io/priyajaiswal.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-Live_Website-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-  </a>
   <a href="https://linkedin.com/in/priya-jaiswal1103" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -19,146 +16,132 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="./Priya_Jaiswal_DevOps.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume_PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Resume_PDF-D4AF37?style=for-the-badge&logo=adobeacrobatreader&logoColor=black"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Pjaisw1103&label=Profile%20Views&color=0078D4&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Pjaisw1103&label=Profile%20Views&color=D4AF37&style=for-the-badge"/>
 </p>
 
 ---
 
-## 👋 About Me
+## 📌 About Me
 
-<img align="right" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212284100-561b9735-492b-4494-b31c-c7604313f8c8.gif" alt="3D DevOps Engineer Working" />
 
-I am **Priya Jaiswal**, an **Azure Cloud, DevOps & DevSecOps Engineer** dedicated to architecting automated, secure, and resilient cloud infrastructure.
+I am **Priya Jaiswal**, a result-driven **Azure Cloud & DevOps Engineer** specializing in architecting zero-drift cloud infrastructure, building automated multi-stage CI/CD pipelines, and integrating shift-left security governance.
 
-With **1 year of hands-on internship experience at DevOps Insiders**, I specialize in provisioning enterprise cloud resources using **Terraform IaC**, building zero-touch **Azure DevOps CI/CD pipelines**, orchestrating **Azure AKS Kubernetes** clusters, and integrating **shift-left security tools**.
+### 🌟 Executive Highlights
+- 🎓 **Academic Excellence:** B.Tech in CSE (**CGPA: 8.43 / 10**) | *Dr. A.P.J. Abdul Kalam Technical University (2022–2026)*
+- 💼 **Industry Track:** DevOps Engineer Intern @ **DevOps Insiders** (*Jan 2026 – June 2026*)
+- ☁️ **Cloud Architecture:** Azure VNets, Subnets, Private VMs, Azure Bastion & Load Balancer
+- 🏗️ **IaC Automation:** Modular **Terraform** HCL with Azure Blob distributed remote state locking
+- ⚙️ **CI/CD & Security:** **Azure DevOps YAML Pipelines**, **GitHub Actions**, **tfsec** & **TFLint**
+- 🛡️ **Infrastructure Control:** Zero-trust NSGs, PR validation gates, and Linux system diagnostics
 
-### 🛠️ Core Engineering Focus
-- ☁️ **Azure Cloud Architecture:** Provisioning scalable Azure cloud infrastructure (VNets, VMs, AKS, Key Vault, Storage).
-- 🏗️ **Infrastructure as Code:** Writing modular **Terraform** HCL with Azure Blob state locking for 100% environment consistency.
-- ⚙️ **CI/CD Automation:** Designing automated build & deployment workflows in **Azure DevOps & GitHub Actions**.
-- 🔐 **Shift-Left Security:** Enforcing security gates using **SonarQube, TFSec, TFLint & Checkov**.
-- 🐳 **Containers & K8s:** Microservices containerization with **Docker** and deployment on **Azure AKS**.
-- 📊 **Observability:** Real-time cluster health & system metric monitoring using **Prometheus & Grafana**.
-- ⚡ **Availability:** **Immediate Joiner (0 Days Notice)** | B.Tech CSE (8.43 CGPA / 10).
-
-<br/>
+<br clear="right"/>
 
 ---
 
-## 🌐 Interactive Portfolio Spotlight
+## 💼 Work Experience
 
-<p align="center">
-  <a href="https://pjaisw1103.github.io/priyajaiswal.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_LAUNCH_LIVE_INTERACTIVE_PORTFOLIO_WEBSITE-00F0FF?style=for-the-badge&logo=githubpages&logoColor=black&labelColor=0D1117" width="82%"/>
-  </a>
-</p>
+### **DevOps Engineer Intern** | **DevOps Insiders**  
+*Jan 2026 – June 2026 | Remote, India*
 
-Explore my **interactive DevOps portfolio website** featuring:
-- ⚡ **Live CI/CD & DevSecOps Pipeline Simulator**: Clickable multi-stage pipeline runner with real-time log inspector.
-- 💻 **Interactive CLI Command Bar**: Typewriter terminal with quick runnable DevOps commands (`$ terraform plan`, `$ kubectl get pods`, `$ checkov scan`).
-- 📋 **Recruiter Corner**: Fast-track qualifications summary and verified official PDF resume download.
-- 🔍 **Architecture Topology Specs**: Visual infrastructure flow specs for cloud projects.
-
-👉 **Direct Link**: [**pjaisw1103.github.io/priyajaiswal.github.io**](https://pjaisw1103.github.io/priyajaiswal.github.io/)
+- 🔹 **Azure Infrastructure Provisioning:** Provisioned core Azure resources (VNets, Subnets, Bastion Host, VMs, Storage Accounts, NSGs) using modular Terraform, **speeding up setup time by 15%**.
+- 🔹 **Remote State Management:** Configured remote state storage on Azure Blob Storage with distributed state locking, preventing concurrent deployment conflicts across the team.
+- 🔹 **Automated CI/CD Pipelines:** Engineered declarative multi-stage YAML pipelines in Azure DevOps to automate build, testing, and deployment workflows across environments.
+- 🔹 **Shift-Left Security Integration:** Integrated automated security checks using **TFLint** for syntax linting and **tfsec** for pre-deployment IaC vulnerability analysis.
+- 🔹 **Git Governance & Runbooks:** Managed infrastructure code repositories using Git branching workflows, enforcing PR approvals and authoring deployment runbooks for the team.
+- 🔹 **System Diagnostics & RCA:** Conducted root-cause analysis (RCA) on pipeline execution failures and Linux system bottlenecks using build logs to maintain environment stability.
+- 🔹 **Bash Script Automation:** Authored reusable Bash maintenance scripts on Ubuntu instances for routine environment setup, health monitoring, and system diagnostics.
 
 ---
 
-## 🧰 Tech Stack
+## 🚀 Featured Projects
 
-| Category | Technologies |
-| :--- | :--- |
-| ☁️ **Cloud & Infrastructure** | Microsoft Azure · Azure AKS · Azure Key Vault · Azure Blob Storage · VNets |
-| 🏗️ **Infrastructure as Code** | Terraform · HCL Modules · Remote State Locking · TFSec · TFLint · Checkov |
-| ⚙️ **CI/CD & DevSecOps** | Azure DevOps Pipelines · GitHub Actions · Git · SonarQube · Checkov |
-| 🐳 **Containers & Orchestration** | Docker · Kubernetes · Azure AKS · NGINX |
-| 📊 **Monitoring & Observability** | Prometheus · Grafana · System Alerts |
-| 🐧 **OS & Scripting** | Linux (Ubuntu) · Bash Shell Scripting · Python · Git |
+### 1️⃣ **Secure 3-Tier Web Application Infrastructure on Azure**
+> **Stack:** `Microsoft Azure` · `Terraform` · `Azure DevOps CI/CD` · `Load Balancer` · `Azure Bastion` · `NSGs`
+
+- **Multi-Tier IaC Architecture:** Architected and deployed a modular 3-tier infrastructure (Web, App, DB tiers) across isolated subnets using reusable Terraform scripts.
+- **Zero-Trust Network Governance:** Secured traffic flow by configuring zero-trust NSG rules and Azure Bastion for private VM administration without exposing public IPs.
+- **Automated Deployment & Reliability:** Built multi-stage Azure DevOps pipelines, **reducing manual deployment effort by 40%** and achieving **99% environment rollout reliability**.
 
 ---
 
-## 📈 Experience & Engineering Impact
+### 2️⃣ **Automated Infrastructure CI/CD & PR Validation Pipeline**
+> **Stack:** `Azure DevOps` · `GitHub Actions` · `tfsec` · `TFLint` · `YAML` · `Terraform`
 
-| Area | Engineering Impact | Key Stack |
-| :--- | :--- | :--- |
-| **Terraform Automation** | Built modular Azure HCL scripts with Blob remote state locking, ensuring 100% environment consistency across Dev, Staging & Production. | `Terraform` · `Azure Storage` |
-| **CI/CD Automation** | Engineered zero-touch Azure DevOps & GitHub Actions release pipelines for automated code building, security scanning, and deployment. | `Azure DevOps` · `YAML` |
-| **Shift-Left Security** | Integrated SonarQube static code analysis and Checkov/TFSec IaC scanners into pipeline quality gates to catch security risks pre-deployment. | `SonarQube` · `Checkov` · `TFSec` |
-| **AKS Kubernetes Deployment** | Orchestrated containerized microservices on Azure AKS clusters with declarative YAML manifests, pod resource limits, and service networking. | `Docker` · `Azure AKS` · `K8s` |
-| **Observability** | Configured Prometheus metric scraping and built real-time Grafana dashboards for cluster CPU, memory, and pod health tracking. | `Prometheus` · `Grafana` |
+- **Branch-Driven PR Validation:** Engineered a branch-driven CI/CD pipeline triggered on Pull Requests to automate Terraform validation, security scanning, and speculative plan runs.
+- **Shift-Left Security Gates:** Integrated **tfsec** and **TFLint** into pipeline gates to block hardcoded credentials, open ingress ports, and non-compliant cloud configurations.
+- **Multi-Stage Approval Workflows:** Implemented multi-stage approval workflows for DEV and QA environments, **reducing deployment rollback rates and speeding up PR reviews by 30%**.
 
 ---
 
-## 🔄 DevSecOps Architecture Workflow
+## 🔄 DevSecOps Architecture & Deployment Workflow
 
 ```mermaid
 flowchart LR
-    A["👩‍💻 Code Commit"] --> B["Git / GitHub"]
-    B --> C["Azure DevOps Pipelines"]
-    C --> D["Build & Validate"]
+    A["👩‍💻 Code Commit / PR"] --> B["Git Branch Trigger"]
+    B --> C["Azure DevOps / GitHub Actions"]
+    C --> D["TFLint (Syntax Check)"]
+    C --> E["tfsec (Security Analysis)"]
+    D --> F{"Security Gate Passed?"}
+    E --> F
+    F -- Yes --> G["Terraform Apply & Blob State Lock"]
+    G --> H["Microsoft Azure Infrastructure"]
+    H --> I["3-Tier Infra (Web, App, DB Tiers)"]
+    H --> J["Azure Bastion & Zero-Trust NSGs"]
 
-    D --> E["SonarQube (SAST)"]
-    D --> F["Checkov & TFSec (IaC)"]
-
-    E --> G{"Quality Gate Passed?"}
-    F --> G
-
-    G -- Yes --> H["Terraform Apply"]
-    H --> I["Microsoft Azure Cloud"]
-
-    I --> J["Azure AKS (Kubernetes)"]
-
-    J --> K["Prometheus Metrics"]
-    K --> L["Grafana Dashboards"]
-
-    style A fill:#0d1117,stroke:#0078d4,stroke-width:2px,color:#fff
-    style C fill:#0d1117,stroke:#0078d4,stroke-width:2px,color:#fff
-    style G fill:#003b73,stroke:#00f0ff,stroke-width:2px,color:#00f0ff
-    style J fill:#0d1117,stroke:#0078d4,stroke-width:2px,color:#fff
-    style L fill:#0d1117,stroke:#00f0ff,stroke-width:2px,color:#fff
+    style A fill:#0b0b0e,stroke:#ffd700,stroke-width:2px,color:#fff
+    style C fill:#1a1a1d,stroke:#d4af37,stroke-width:2px,color:#fff
+    style F fill:#1a1a1d,stroke:#ffd700,stroke-width:2px,color:#ffd700
+    style G fill:#0b0b0e,stroke:#d4af37,stroke-width:2px,color:#fff
+    style H fill:#0b0b0e,stroke:#ffd700,stroke-width:2px,color:#fff
+    style I fill:#0b0b0e,stroke:#d4af37,stroke-width:2px,color:#fff
+    style J fill:#0b0b0e,stroke:#ffd700,stroke-width:2px,color:#fff
 ```
 
 ---
 
-## 🚀 Featured Infrastructure Projects
-
-### 1️⃣ [CI/CD Pipeline with Code Quality & Security Scanning](https://github.com/Pjaisw1103/CICD-Deployment-Automation-Pipeline)
-> **Azure DevOps · SonarQube · Checkov · Docker · NGINX · Linux**
-
-- Built an automated **Azure DevOps CI/CD pipeline** with embedded static code analysis and IaC security scans.
-- Enforced **SonarQube** quality gates and **Checkov** security checks before triggering container deployments.
-- Containerized web applications with **Docker** and deployed with **NGINX** on Linux nodes.
-- 🔗 **Repository**: [Pjaisw1103/CICD-Deployment-Automation-Pipeline](https://github.com/Pjaisw1103/CICD-Deployment-Automation-Pipeline)
-
----
-
-### 2️⃣ [Multi-Environment Infrastructure Automation](https://github.com/Pjaisw1103/Multi-Environment-Azure-Infrastructure-Setup)
-> **Terraform · Azure Storage · TFSec · TFLint · Key Vault**
-
-- Engineered reusable **Terraform modules** to provision isolated Dev, Staging, and Production Azure environments.
-- Implemented **Azure Blob Storage** for remote state persistence with **state locking** for secure team workflows.
-- Automated code linting & security scans using **TFLint** and **TFSec**.
-- 🔗 **Repository**: [Pjaisw1103/Multi-Environment-Azure-Infrastructure-Setup](https://github.com/Pjaisw1103/Multi-Environment-Azure-Infrastructure-Setup)
-
----
-
-### 3️⃣ [Azure AKS Cluster Provisioning & Deployment](https://github.com/Pjaisw1103/Azure-AKS-Provisioning-and-Deployment)
-> **Azure AKS · Kubernetes · Terraform · Docker · YAML Manifests**
-
-- Provisioned production-ready **Azure Kubernetes Service (AKS)** clusters using modular Terraform scripts.
-- Authored declarative Kubernetes **YAML manifests** for Deployments, ClusterIP & LoadBalancer Services.
-- Configured pod resource limits, environment variables, and cluster health observability.
-- 🔗 **Repository**: [Pjaisw1103/Azure-AKS-Provisioning-and-Deployment](https://github.com/Pjaisw1103/Azure-AKS-Provisioning-and-Deployment)
-
----
-
-## 📄 Resume & Contact
+## 🧰 Tech Stack & Tools
 
 <p align="center">
-  <a href="https://pjaisw1103.github.io/priyajaiswal.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-pjaisw1103.github.io-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-  </a>
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/tfsec-D4AF37?style=for-the-badge&logo=shield&logoColor=black" />
+  <img src="https://img.shields.io/badge/TFLint-0078D4?style=for-the-badge&logo=checkmarx&logoColor=white" />
+</p>
+
+| Category | Technologies & Tools |
+| :--- | :--- |
+| ☁️ **Cloud Platform** | **Microsoft Azure** *(VNets, Subnets, VMs, Bastion, Storage Accounts, Load Balancer)* |
+| 🏗️ **Infrastructure as Code** | **Terraform** *(Reusable Modules, Remote State Locking, Variables, Providers)* |
+| ⚙️ **CI/CD & Automation** | **Azure DevOps** *(YAML Pipelines)*, **GitHub Actions**, **Git** |
+| 🛡️ **DevSecOps & Quality** | **tfsec** *(Security Analysis)*, **TFLint** *(IaC Linting)* |
+| 🐳 **Containers & OS** | **Docker** *(Containerization, Multi-stage Builds)*, **Linux** *(Ubuntu Administration)* |
+| 🌐 **Networking & Security** | Subnets, Network Security Groups (NSGs), Ports, Inbound/Outbound Rules, SSH Keys |
+
+---
+
+## 📊 GitHub Analytics & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pjaisw1103&show_icons=true&hide_border=false&border_color=D4AF37&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0B0B0E" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pjaisw1103&layout=compact&hide_border=false&border_color=D4AF37&title_color=FFD700&text_color=ffffff&bg_color=0B0B0E" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pjaisw1103&hide_border=false&border=D4AF37&background=0B0B0E&stroke=FFD700&ring=D4AF37&fire=FFD700&currStreakLabel=FFD700" width="95%" />
+</p>
+
+---
+
+## ✨ Let's Connect
+
+<p align="center">
   <a href="https://linkedin.com/in/priya-jaiswal1103" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Priya_Jaiswal-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -166,14 +149,19 @@ flowchart LR
     <img src="https://img.shields.io/badge/Gmail-priyajaisw9554%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="./Priya_Jaiswal_DevOps.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download_PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Resume-Download_PDF-D4AF37?style=for-the-badge&logo=adobeacrobatreader&logoColor=black"/>
   </a>
 </p>
 
 <p align="center">
-  <b>💼 Open to Azure Cloud | DevOps | DevSecOps Opportunities (Immediate Joiner)</b>
+  <b>💼 Open to Azure Cloud | DevOps | DevSecOps Opportunities</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0078D4,50:00A4EF,100:00F0FF"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:050505,30:1A1A1D,65:996515,85:D4AF37,100:FFD700"/>
 </p>
+
+
+
+
+
