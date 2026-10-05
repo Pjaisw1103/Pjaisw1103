@@ -10,15 +10,15 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/priya-jaiswal1103" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:priyajaisw9554@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="./Priya_Jaiswal_DevOps.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume_PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <a href="./Priya_Jaiswal_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume_PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Pjaisw1103&label=Profile%20Views&color=0078D4&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Pjaisw1103&label=Profile%20Views&color=0078D4&style=for-the-badge" alt="Profile Views"/>
 </p>
 
 ---
@@ -27,15 +27,17 @@
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" alt="3D DevOps Developer Working" />
 
-I am **Priya Jaiswal**, a result-driven **Azure Cloud & DevOps Engineer** specializing in architecting zero-drift cloud infrastructure, building automated multi-stage CI/CD pipelines, and integrating shift-left security governance.
+I am **Priya Jaiswal**, a passionate **Azure Cloud & DevOps Engineer** focused on building resilient, zero-drift cloud environments, automating multi-stage CI/CD pipelines, and embedding shift-left security standards.
 
-### 🌟 Executive Highlights
-- 🎓 **Academic Excellence:** B.Tech in CSE (**CGPA: 8.43 / 10**) | *Dr. A.P.J. Abdul Kalam Technical University (2022–2026)*
-- 💼 **Industry Track:** DevOps Engineer Intern @ **DevOps Insiders** (*Jan 2026 – June 2026*)
-- ☁️ **Cloud Architecture:** Azure VNets, Subnets, Private VMs, Azure Bastion & Load Balancer
-- 🏗️ **IaC Automation:** Modular **Terraform** HCL with Azure Blob distributed remote state locking
-- ⚙️ **CI/CD & Security:** **Azure DevOps YAML Pipelines**, **GitHub Actions**, **tfsec** & **TFLint**
-- 🛡️ **Infrastructure Control:** Zero-trust NSGs, PR validation gates, and Linux system diagnostics
+#### 🎯 Engineering Focus
+- ☁️ **Cloud Infrastructure:** Architecting multi-tier Azure environments (VNets, Isolated Subnets, Private VMs, Load Balancers, Azure Bastion).
+- 🏗️ **Infrastructure as Code (IaC):** Authoring modular **Terraform** HCL scripts with Azure Blob distributed remote state locking for 100% environment consistency.
+- ⚙️ **CI/CD & DevSecOps:** Engineering automated YAML release pipelines in **Azure DevOps & GitHub Actions** with integrated **tfsec** vulnerability analysis and **TFLint** code checks.
+
+#### 🎓 Education & Track
+- 🎓 **B.Tech in Computer Science & Engineering** | CGPA: **8.43 / 10** (*Dr. A.P.J. Abdul Kalam Technical University, 2022–2026*)
+- 💼 **DevOps Engineer Intern** @ **DevOps Insiders** (*Jan 2026 – June 2026*)
+- 🏆 **Focus Areas:** Zero-Trust Cloud Security, Automated Infrastructure Governance, & High-Availability Operations
 
 <br clear="right"/>
 
@@ -129,8 +131,9 @@ flowchart LR
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pjaisw1103&show_icons=true&hide_border=false&border_color=0078D4&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pjaisw1103&layout=compact&hide_border=false&border_color=0078D4&title_color=00F0FF&text_color=ffffff&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pjaisw1103&show_icons=true&hide_border=false&border_color=0078D4&title_color=00F0FF&icon_color=00F0FF&text_color=ffffff&bg_color=0D1117&card_width=420" height="195" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pjaisw1103&layout=compact&hide_border=false&border_color=0078D4&title_color=00F0FF&text_color=ffffff&bg_color=0D1117&card_width=420&langs_count=5" height="195" alt="Top Languages" />
 </p>
 
 ---
@@ -139,13 +142,13 @@ flowchart LR
 
 <p align="center">
   <a href="https://linkedin.com/in/priya-jaiswal1103" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Priya_Jaiswal-0078D4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Priya_Jaiswal-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:priyajaisw9554@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-priyajaisw9554%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-priyajaisw9554%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="./Priya_Jaiswal_DevOps.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Download_PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+  <a href="./Priya_Jaiswal_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Download_PDF-0078D4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume PDF"/>
   </a>
 </p>
 
@@ -156,6 +159,7 @@ flowchart LR
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,45:0078D4,100:00F0FF"/>
 </p>
+
 
 
 
